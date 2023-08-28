@@ -1,4 +1,4 @@
-# Project: Predict Heart Disease - End to End Data Science Workflow
+# Project: Predict Heart Disease using Artificial Neural Network - End to End Data Science Workflow
 
 ## 1. Loading the Dataset and Initial Checks
 - Load the dataset containing information about heart disease and perform basic data checks to ensure data integrity.
