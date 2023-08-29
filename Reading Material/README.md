@@ -4,7 +4,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 
 ## Table of Contents
 
-- [Pandas Cheat Sheet](Pandas%20Cheat%20Sheet.md): A quick reference guide for using Pandas, a popular data manipulation library in Python.
+- [Pandas Cheat Sheet](Pandas%20Cheatsheet.md): A quick reference guide for using Pandas, a popular data manipulation library in Python.
 
 - [Numpy Cheat Sheet](Numpy%20Cheat%20Sheet.md): A cheat sheet showcasing essential functions and operations provided by Numpy, a fundamental library for numerical computations.
 
