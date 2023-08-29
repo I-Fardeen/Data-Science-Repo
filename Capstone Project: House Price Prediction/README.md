@@ -3,6 +3,8 @@
 
 Welcome to the **House Price Prediction Capstone Project** repository on GitHub! 🎉 In this project, we invite you to explore the exciting world of data analysis, prediction modeling, and feature engineering in the context of real estate. Whether you're an aspiring data scientist or a curious learner, this project is designed to provide valuable insights into predicting house prices using a variety of techniques and tools.
 
+Made with :heart: by **Fardeen Ahmad Khan and Team (attributions in the code file)**
+
 ## Project Overview 🌟
 
 This capstone project is dedicated to unraveling the dynamics of house prices, offering an insightful journey through data cleaning, exploratory data analysis, modeling, and feature engineering. By diving into this project, you will:
@@ -62,3 +64,5 @@ Feel free to explore each section in detail and engage with the provided code an
 ## Model Tuning ⚙️
 - Perform hyperparameter tuning to optimize model performance.
 - Apply tuned parameters to a Light Gradient Boosting Algorithm for improved accuracy.
+
+Made with :heart: by **Fardeen Ahmad Khan and Team**
