@@ -98,3 +98,5 @@ Assess the performance of the ANN model by calculating accuracy and other releva
 
 ### 📊 5.3 Visualizing our Predictions
 Create visualizations to showcase the model's predictions and their comparison with the actual target values.
+
+Made with :heart: by **Fardeen Ahmad Khan**
