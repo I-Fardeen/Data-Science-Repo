@@ -11,6 +11,8 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 - [Matplotlib Cheat Sheet](Matplotlib%20Cheatsheet.md): A ready reckoner for matplotlib.pyplot equally beneficial for both beginners and experienced folks.
 
 - [Sci-Kit Learn Cheat Sheet](Scikit%20Learn%20Cheatsheet.md): A sheet outlining basic operations and tools of sklearn which are used frequently.
+  
+- [Networking Commands Cheat Sheet](Networking%20Commands.md): Frequently used networking commands to troubleshoot networking errors or checking network stats.
 
 More reading materials and cheat sheets will be added to this repository in the future, covering a wide range of data science topics. Be sure to check back regularly for updates!
 
