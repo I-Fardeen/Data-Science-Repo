@@ -19,7 +19,7 @@ Remember to stay updated with the latest developments in the field of machine le
 7. [Hyperparameter Tuning](#hyperparameter-tuning)
 8. [Saving and Loading Models](#saving-and-loading-models)
 
-## Installation ['installation']  ⚙️
+## Installation ⚙️
 
 To install scikit-learn, you can use the following command:
 
@@ -27,7 +27,7 @@ To install scikit-learn, you can use the following command:
 pip install scikit-learn
 ```
 
-## Importing [importing] 📥
+## Importing 📥
 
 Import the necessary modules and classes from scikit-learn:
 
@@ -40,7 +40,7 @@ from sklearn.model_selection import GridSearchCV
 from sklearn.externals import joblib
 ```
 
-## Data Preparation [data-preparation]: 🧬
+## Data Preparation 🧬
 
 - Load your dataset and split it into features (X) and target (y):
 
