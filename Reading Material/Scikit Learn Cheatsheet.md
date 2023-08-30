@@ -19,7 +19,7 @@ Remember to stay updated with the latest developments in the field of machine le
 7. [Hyperparameter Tuning](#hyperparameter-tuning)
 8. [Saving and Loading Models](#saving-and-loading-models)
 
-## Installation[installation] ⚙️
+## Installation ['installation']  ⚙️
 
 To install scikit-learn, you can use the following command:
 
