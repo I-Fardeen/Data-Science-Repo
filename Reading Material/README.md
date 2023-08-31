@@ -4,6 +4,8 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 
 ## Table of Contents
 
+- [Best Websites for Programmers](Best%20Websites%20for%20Programmers.md): 10 Essential websites every programmer must know.
+  
 - [Pandas Cheat Sheet](Pandas%20Cheatsheet.md): A quick reference guide for using Pandas, a popular data manipulation library in Python.
 
 - [Numpy Cheat Sheet](Numpy%20Cheatsheet.md): A cheat sheet showcasing essential functions and operations provided by Numpy, a fundamental library for numerical computations.
