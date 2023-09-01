@@ -14,6 +14,8 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 
 - [Sci-Kit Learn Cheat Sheet](Scikit%20Learn%20Cheatsheet.md): A sheet outlining basic operations and tools of sklearn which are used frequently.
   
+- [Top Ten Data Science Repositories](Top%20Ten%20Data%20Science%20Repositories.md): Top 10 Repositories on Github related to Data Science and related libraries.
+  
 - [Networking Commands Cheat Sheet](Networking%20Commands.md): Frequently used networking commands to troubleshoot networking errors or check network stats.
 
 More reading materials and cheat sheets will be added to this repository in the future, covering a wide range of data science topics. Be sure to check back regularly for updates!
