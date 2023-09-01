@@ -14,11 +14,15 @@ Predicting stock prices of AirBNB using historical data and machine learning mod
 
 In this capstone project, we dive into predicting house prices using a comprehensive end-to-end data science workflow. From data cleaning to model tuning, we explore every step to achieve accurate predictions.
 
-## 3. [Predict Heart Disease](Predict_Heart_Disease) ❤️
+## 3. [No Time to Die Reviews Analysis](No%20Time%20to%20Die%20Review%20Analysis) 🎦
+
+In this project, we delve into the reviews for the movie "No Time to Die" using Natural Language Processing (NLP) techniques. Our aim is to extract valuable insights into audience sentiments and opinions regarding the film.
+
+## 4. [Predict Heart Disease](Predict_Heart_Disease) ❤️
 
 A project focused on predicting heart disease using artificial neural networks. Explore data preprocessing, model building, evaluation, and parameter tuning in this predictive modeling endeavor.
 
-## 4. [Reading Material](Reading%20Material) 📚
+## 5. [Reading Material](Reading%20Material) 📚
 
 A collection of reading materials, articles, and resources related to data science, machine learning, and AI. A handy reference for expanding your knowledge in the field.
 
