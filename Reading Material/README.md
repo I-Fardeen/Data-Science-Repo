@@ -4,6 +4,8 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 
 ## Table of Contents
 
+- [50 Most Common Words Data Scientists should know](50%20words%20for%20Data%20Scientists.md): 10 Essential websites every programmer must know.
+  
 - [Best Websites for Programmers](Best%20Websites%20for%20Programmers.md): 10 Essential websites every programmer must know.
 
 - [Roadmap to Becoming a Data Scientist](Data%20Science%20Roadmap.md): A roadmap outlining the steps to become an adept Data Scientist.
