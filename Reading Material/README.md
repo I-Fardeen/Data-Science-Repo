@@ -9,6 +9,8 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 - [Best Websites for Programmers](Best%20Websites%20for%20Programmers.md): 10 Essential websites every programmer must know.
 
 - [Roadmap to Becoming a Data Scientist](Data%20Science%20Roadmap.md): A roadmap outlining the steps to become an adept Data Scientist.
+
+- [Top 10 Data Science Websites](Data%20Science%20Websites.md): Top 10 Websites to learn and explore the world of Data Science.
   
 - [Pandas Cheat Sheet](Pandas%20Cheatsheet.md): A quick reference guide for using Pandas, a popular data manipulation library in Python.
 
