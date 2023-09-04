@@ -3,20 +3,23 @@
 Welcome to the **Reading Material** repository! 📚 This repository is dedicated to providing a collection of useful cheat sheets and resources for various topics related to data science, machine learning, and programming. Whether you're a beginner or an experienced practitioner, these reading materials can serve as handy references and guides.
 
 # Table of Contents 🗒️
+Certainly! Here's the same table of contents presented in a tabular format, sorted alphabetically:
 
-| Title                                          | Description                                            |
-|------------------------------------------------|--------------------------------------------------------|
-| [50 Most Common Words Data Scientists should know](50%20words%20for%20Data%20Scientists.md)                 | 50 everyday words in the life of a Data Scientist.    |
-| [Best Websites for Programmers](Best%20Websites%20for%20Programmers.md)                                   | 10 Essential websites every programmer must know.      |
-| [Roadmap to Becoming a Data Scientist](Data%20Science%20Roadmap.md)                                      | A roadmap outlining the steps to become an adept Data Scientist. |
-| [Top 10 Data Science Websites](Data%20Science%20Websites.md)                                            | Top 10 Websites to learn and explore the world of Data Science. |
-| [Pandas Cheat Sheet](Pandas%20Cheatsheet.md)                                                            | A quick reference guide for using Pandas, a popular data manipulation library in Python. |
-| [Numpy Cheat Sheet](Numpy%20Cheatsheet.md)                                                              | A cheat sheet showcasing essential functions and operations provided by Numpy, a fundamental library for numerical computations. |
-| [Matplotlib Cheat Sheet](Matplotlib%20Cheatsheet.md)                                                    | A ready reckoner for matplotlib.pyplot equally beneficial for both beginners and experienced folks. |
-| [Sci-Kit Learn Cheat Sheet](Scikit%20Learn%20Cheatsheet.md)                                              | A sheet outlining basic operations and tools of sklearn which are used frequently. |
-| [Top Ten Data Science Repositories](Top%20Ten%20Data%20Science%20Repositories.md)                       | Top 10 Repositories on Github related to Data Science and related libraries. |
-| [100 Statistical Concepts for Data science](Stats%20Concepts.md)                                          | 100 Statistical Concepts and Key terms every Data Scientist should know. |
-| [Networking Commands Cheat Sheet](Networking%20Commands.md)                                              | Frequently used networking commands to troubleshoot networking errors or check network stats. |
+| Title                                           | Description                                                    |
+|-------------------------------------------------|----------------------------------------------------------------|
+| [100 Statistical Concepts for Data science](Stats%20Concepts.md)                           | 100 Statistical Concepts and Key terms every Data Scientist should know. |
+| [50 Most Common Words Data Scientists should know](50%20words%20for%20Data%20Scientists.md) | 50 everyday words in the life of a Data Scientist.           |
+| [Best Websites for Programmers](Best%20Websites%20for%20Programmers.md)                     | 10 Essential websites every programmer must know.             |
+| [Matplotlib Cheat Sheet](Matplotlib%20Cheatsheet.md)                                     | A ready reckoner for matplotlib.pyplot equally beneficial for both beginners and experienced folks. |
+| [Model Evaluation Metrics](Model%20Evaluation%20Metrics.md)                                 | Common Metrics used to Evaluate Models pertaining to different kinds of problems, Regression, Classification and Clustering |
+| [Networking Commands Cheat Sheet](Networking%20Commands.md)                                 | Frequently used networking commands to troubleshoot networking errors or check network stats. |
+| [Numpy Cheat Sheet](Numpy%20Cheatsheet.md)                                               | A cheat sheet showcasing essential functions and operations provided by Numpy, a fundamental library for numerical computations. |
+| [Pandas Cheat Sheet](Pandas%20Cheatsheet.md)                                             | A quick reference guide for using Pandas, a popular data manipulation library in Python. |
+| [Roadmap to Becoming a Data Scientist](Data%20Science%20Roadmap.md)                         | A roadmap outlining the steps to become an adept Data Scientist. |
+| [Sci-Kit Learn Cheat Sheet](Scikit%20Learn%20Cheatsheet.md)                                 | A sheet outlining basic operations and tools of sklearn which are used frequently. |
+| [Top 10 Data Science Websites](Data%20Science%20Websites.md)                               | Top 10 Websites to learn and explore the world of Data Science. |
+| [Top Ten Data Science Repositories](Top%20Ten%20Data%20Science%20Repositories.md)           | Top 10 Repositories on Github related to Data Science and related libraries. |
+
 
 More reading materials and cheat sheets will be added to this repository in the future, covering a wide range of data science topics. Be sure to check back regularly for updates!
 
