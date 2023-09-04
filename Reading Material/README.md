@@ -18,6 +18,7 @@ Certainly! Here's the same table of contents presented in a tabular format, sort
 | [Roadmap to Becoming a Data Scientist](Data%20Science%20Roadmap.md)                         | A roadmap outlining the steps to become an adept Data Scientist. |
 | [Sci-Kit Learn Cheat Sheet](Scikit%20Learn%20Cheatsheet.md)                                 | A sheet outlining basic operations and tools of sklearn which are used frequently. |
 | [Top 10 Data Science Websites](Data%20Science%20Websites.md)                               | Top 10 Websites to learn and explore the world of Data Science. |
+| [TensorFlow Cheatsheet](TensorFlow%20Cheatsheet.md)           | A quick reference material for building machine learning models in TensorFlow |
 | [Top Ten Data Science Repositories](Top%20Ten%20Data%20Science%20Repositories.md)           | Top 10 Repositories on Github related to Data Science and related libraries. |
 
 
