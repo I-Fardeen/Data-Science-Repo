@@ -12,6 +12,7 @@ Certainly! Here's the same table of contents presented in a tabular format, sort
 | [Best Websites for Programmers](Best%20Websites%20for%20Programmers.md)                     | 10 Essential websites every programmer must know.             |
 | [Matplotlib Cheat Sheet](Matplotlib%20Cheatsheet.md)                                     | A ready reckoner for matplotlib.pyplot equally beneficial for both beginners and experienced folks. |
 | [Model Evaluation Metrics](Model%20Evaluation%20Metrics.md)                                 | Common Metrics used to Evaluate Models pertaining to different kinds of problems, Regression, Classification and Clustering |
+| [MySQL Commands Cheat Sheet](MySQL%20Cheatsheet.md)                                 | Commonly used commands to manipulate Databases in MySQL |
 | [Networking Commands Cheat Sheet](Networking%20Commands.md)                                 | Frequently used networking commands to troubleshoot networking errors or check network stats. |
 | [Numpy Cheat Sheet](Numpy%20Cheatsheet.md)                                               | A cheat sheet showcasing essential functions and operations provided by Numpy, a fundamental library for numerical computations. |
 | [Pandas Cheat Sheet](Pandas%20Cheatsheet.md)                                             | A quick reference guide for using Pandas, a popular data manipulation library in Python. |
