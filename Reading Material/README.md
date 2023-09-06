@@ -3,7 +3,6 @@
 Welcome to the **Reading Material** repository! 📚 This repository is dedicated to providing a collection of useful cheat sheets and resources for various topics related to data science, machine learning, and programming. Whether you're a beginner or an experienced practitioner, these reading materials can serve as handy references and guides.
 
 # Table of Contents 🗒️
-Certainly! Here's the same table of contents presented in a tabular format, sorted alphabetically:
 
 | Title                                           | Description                                                    |
 |-------------------------------------------------|----------------------------------------------------------------|
@@ -17,6 +16,7 @@ Certainly! Here's the same table of contents presented in a tabular format, sort
 | [Networking Commands Cheat Sheet](Networking%20Commands.md)                                 | Frequently used networking commands to troubleshoot networking errors or check network stats. |
 | [Numpy Cheat Sheet](Numpy%20Cheatsheet.md)                                               | A cheat sheet showcasing essential functions and operations provided by Numpy, a fundamental library for numerical computations. |
 | [Pandas Cheat Sheet](Pandas%20Cheatsheet.md)                                             | A quick reference guide for using Pandas, a popular data manipulation library in Python. |
+| [PySpark Cheat Sheet](PySpark%20Cheatsheet.md)                                             | Getting started with Spark using Python's PySpark library |
 | [Roadmap to Becoming a Data Scientist](Data%20Science%20Roadmap.md)                         | A roadmap outlining the steps to become an adept Data Scientist. |
 | [Sci-Kit Learn Cheat Sheet](Scikit%20Learn%20Cheatsheet.md)                                 | A sheet outlining basic operations and tools of sklearn which are used frequently. |
 | [Selenium Web Scraping Cheat Sheet](Selenium%20Web%20Scraping.md)                                 | A reference guide to learning web scraping using Selenium |
