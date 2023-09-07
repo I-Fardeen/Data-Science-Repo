@@ -9,6 +9,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [100 Statistical Concepts for Data science](Stats%20Concepts.md)                           | 100 Statistical Concepts and Key terms every Data Scientist should know. |
 | [50 Most Common Words Data Scientists should know](50%20words%20for%20Data%20Scientists.md) | 50 everyday words in the life of a Data Scientist.           |
 | [Best Websites for Programmers](Best%20Websites%20for%20Programmers.md)                     | 10 Essential websites every programmer must know.             |
+| [Hadoop using Python Cheat Sheet](Hadoop%2using%20Python.md)                                     | Setting up environment and getting started with Hadoop using Python |
 | [Matplotlib Cheat Sheet](Matplotlib%20Cheatsheet.md)                                     | A ready reckoner for matplotlib.pyplot equally beneficial for both beginners and experienced folks. |
 | [Model Evaluation Metrics](Model%20Evaluation%20Metrics.md)                                 | Common Metrics used to Evaluate Models pertaining to different kinds of problems, Regression, Classification and Clustering |
 | [MySQL Commands Cheat Sheet](MySQL%20Cheatsheet.md)                                 | Commonly used commands to manipulate Databases in MySQL |
