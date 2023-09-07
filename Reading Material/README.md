@@ -21,10 +21,9 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Sci-Kit Learn Cheat Sheet](Scikit%20Learn%20Cheatsheet.md)                                 | A sheet outlining basic operations and tools of sklearn which are used frequently. |
 | [Selenium Web Scraping Cheat Sheet](Selenium%20Web%20Scraping.md)                                 | A reference guide to learning web scraping using Selenium |
 | [TensorFlow Cheatsheet](TensorFlow%20Cheatsheet.md)           | A quick reference material for building machine learning models in TensorFlow |
+| [Top 10 Data Science Repositories](Top%20Ten%20Data%20Science%20Repositories.md)           | Top 10 Repositories on Github related to Data Science and related libraries. |
 | [Top 10 Data Science Websites](Data%20Science%20Websites.md)                               | Top 10 Websites to learn and explore the world of Data Science. |
 | [Top 50 Data Science Interview Questions](Interview%20Questions%20DS.md)                                     | 50 of the most common interview questions for Data Science, beginner to advance levels |
-| [Top Ten Data Science Repositories](Top%20Ten%20Data%20Science%20Repositories.md)           | Top 10 Repositories on Github related to Data Science and related libraries. |
-
 
 More reading materials and cheat sheets will be added to this repository in the future, covering a wide range of data science topics. Be sure to check back regularly for updates!
 
