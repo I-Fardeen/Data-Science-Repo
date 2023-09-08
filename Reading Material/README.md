@@ -21,6 +21,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Roadmap to Becoming a Data Scientist](Data%20Science%20Roadmap.md)                         | A roadmap outlining the steps to become an adept Data Scientist. |
 | [Sci-Kit Learn Cheat Sheet](Scikit%20Learn%20Cheatsheet.md)                                 | A sheet outlining basic operations and tools of sklearn which are used frequently. |
 | [Selenium Web Scraping Cheat Sheet](Selenium%20Web%20Scraping.md)                                 | A reference guide to learning web scraping using Selenium |
+| [Spacy using Python Cheat Sheet](Spacy%20using%20Python.md)                                 | Common uses of Spacy for Natural Language Processing (NLP) |
 | [TensorFlow Cheatsheet](TensorFlow%20Cheatsheet.md)           | A quick reference material for building machine learning models in TensorFlow |
 | [Top 10 Data Science Repositories](Top%20Ten%20Data%20Science%20Repositories.md)           | Top 10 Repositories on Github related to Data Science and related libraries. |
 | [Top 10 Data Science Websites](Data%20Science%20Websites.md)                               | Top 10 Websites to learn and explore the world of Data Science. |
