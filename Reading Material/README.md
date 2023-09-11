@@ -20,6 +20,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Pandas Cheat Sheet](Pandas%20Cheatsheet.md)                                             | A quick reference guide for using Pandas, a popular data manipulation library in Python. |
 | [PySpark Cheat Sheet](PySpark%20Cheatsheet.md)                                             | Getting started with Spark using Python's PySpark library |
 | [Regression Techniques Cheat Sheet](Regression%20Techniques.md)                                             | Common Regression Techniques used in Data Science |
+| [Requests Library Cheat Sheet](Requests%20Cheatsheet.md)                                             | Handling HTTP requests using Python's requests library |
 | [Roadmap to Becoming a Data Scientist](Data%20Science%20Roadmap.md)                         | A roadmap outlining the steps to become an adept Data Scientist. |
 | [Sci-Kit Learn Cheat Sheet](Scikit%20Learn%20Cheatsheet.md)                                 | A sheet outlining basic operations and tools of sklearn which are used frequently. |
 | [Selenium Web Scraping Cheat Sheet](Selenium%20Web%20Scraping.md)                                 | A reference guide to learning web scraping using Selenium |
