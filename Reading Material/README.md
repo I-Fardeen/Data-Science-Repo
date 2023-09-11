@@ -8,6 +8,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 |-------------------------------------------------|----------------------------------------------------------------|
 | [100 Statistical Concepts for Data science](Stats%20Concepts.md)                           | 100 Statistical Concepts and Key terms every Data Scientist should know. |
 | [50 Most Common Words Data Scientists should know](50%20words%20for%20Data%20Scientists.md) | 50 everyday words in the life of a Data Scientist.           |
+| [Beautiful Soup Cheat Sheet](BeautifulSoup%20Cheatsheet.md)                     | Getting started with BeautifulSoup in Python.             |
 | [Best Websites for Programmers](Best%20Websites%20for%20Programmers.md)                     | 10 Essential websites every programmer must know.             |
 | [Branches of Data Science](Branches%20of%20Data%20Science.md)                     | Different Branches of Data Science and Types of Data Science applications |
 | [Hadoop using Python Cheat Sheet](Hadoop%20using%20Python.md)                                     | Setting up environment and getting started with Hadoop using Python |
