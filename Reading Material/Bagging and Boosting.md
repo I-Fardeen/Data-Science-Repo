@@ -1,6 +1,6 @@
 # Bagging and Boosting using Python Cheat Sheet 🎯🚀
 
-Made with :heart: by **Fardeen Ahmad Khan**
+Made with :heart: **Fardeen Ahmad Khan**
 
 Welcome to the exciting world of Bagging and Boosting techniques in Python! This cheat sheet is your comprehensive guide to understanding and implementing Bagging and Boosting algorithms for enhanced machine learning models. Be sure to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and Data Science insights! 🙌
 
