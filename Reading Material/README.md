@@ -21,6 +21,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Neural Networks using Python](Neural%20Networks%20using%20Python.md)                                 | Building Neural Networks using Python and Tensor Flow |
 | [Numpy Cheat Sheet](Numpy%20Cheatsheet.md)                                               | A cheat sheet showcasing essential functions and operations provided by Numpy, a fundamental library for numerical computations. |
 | [Pandas Cheat Sheet](Pandas%20Cheatsheet.md)                                             | A quick reference guide for using Pandas, a popular data manipulation library in Python. |
+| [Plotly and Dash Cheat Sheet](Plotly%20and%20Dash%20Cheatsheet.md)                                             | Working with Plotly and Dash in Python for visualization. |
 | [PySpark Cheat Sheet](PySpark%20Cheatsheet.md)                                             | Getting started with Spark using Python's PySpark library |
 | [Regression Techniques Cheat Sheet](Regression%20Techniques.md)                                             | Common Regression Techniques used in Data Science |
 | [Requests Library Cheat Sheet](Requests%20Cheatsheet.md)                                             | Handling HTTP requests using Python's requests library |
