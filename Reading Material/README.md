@@ -18,6 +18,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [MySQL Commands Cheat Sheet](MySQL%20Cheatsheet.md)                                 | Commonly used commands to manipulate Databases in MySQL |
 | [MySQL using Python Cheat Sheet](MySQL%20using%20Python.md)                                 | Execute and manage MySQL queries in Python |
 | [Networking Commands Cheat Sheet](Networking%20Commands.md)                                 | Frequently used networking commands to troubleshoot networking errors or check network stats. |
+| [Neural Networks using Python](Neural%20Networks%20using%20Python.md)                                 | Building Neural Networks using Python and Tensor Flow |
 | [Numpy Cheat Sheet](Numpy%20Cheatsheet.md)                                               | A cheat sheet showcasing essential functions and operations provided by Numpy, a fundamental library for numerical computations. |
 | [Pandas Cheat Sheet](Pandas%20Cheatsheet.md)                                             | A quick reference guide for using Pandas, a popular data manipulation library in Python. |
 | [PySpark Cheat Sheet](PySpark%20Cheatsheet.md)                                             | Getting started with Spark using Python's PySpark library |
