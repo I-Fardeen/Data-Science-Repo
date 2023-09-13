@@ -1,6 +1,6 @@
 # Neural Networks using Python Cheat Sheet 🧠🐍
 
-Made with :heart: by 
+Made with :heart: by **Fardeen Ahmad Khan**
 
 Welcome to the fascinating world of Neural Networks in Python! This cheat sheet is your ultimate guide to understanding and implementing Neural Networks for various machine learning tasks. Don't forget to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and Data Science insights! 🙌
 
