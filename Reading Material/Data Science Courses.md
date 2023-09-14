@@ -36,7 +36,7 @@ Welcome to the world of Data Science education! This cheat sheet is your gateway
    - **Description**: Explore the fundamentals of large-scale data mining.
 
 ## 🌟 **8. Harvard Online**:
-   - **Course**: [Data Science MicroMasters](https://online-learning.harvard.edu/micromasters-data-science)
+   - **Course**: [Data Science MicroMasters](https://pll.harvard.edu/catalog?topics%5B714%5D=714&max_price=&start_date=&keywords=Data+Science)
    - **Instructors**: Harvard University Faculty
    - **Description**: Gain expertise in data science, machine learning, and more.
 
