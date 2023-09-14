@@ -29,6 +29,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Sci-Kit Learn Cheat Sheet](Scikit%20Learn%20Cheatsheet.md)                                 | A sheet outlining basic operations and tools of sklearn which are used frequently. |
 | [Selenium Web Scraping Cheat Sheet](Selenium%20Web%20Scraping.md)                                 | A reference guide to learning web scraping using Selenium |
 | [Spacy using Python Cheat Sheet](Spacy%20using%20Python.md)                                 | Common uses of Spacy for Natural Language Processing (NLP) |
+| [Stats Library Cheat Sheet](Stats%20Lib%20Cheatsheet.md)                                 | Stats operations in Python using SciPy and Statistics. |
 | [TensorFlow Cheatsheet](TensorFlow%20Cheatsheet.md)           | A quick reference material for building machine learning models in TensorFlow |
 | [Time Series Analysis Cheatsheet](Time%20Series%20Analysis.md)           | A quick guide to analyzing time series data using Python |
 | [Top 10 Data Science Online Courses](Data%20Science%20Courses.md)                                     | Popular Online courses for Data Science |
