@@ -4,7 +4,7 @@ Made with :heart: by **Fardeen Ahmad Khan**
 
 Welcome to the world of statistical analysis in Python! This cheat sheet is your comprehensive guide to using the Stats library for performing statistical calculations and analyses. Make sure to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and Data Science insights! 🙌
 
-📊 **1. Descriptive Statistics**:
+## 📊 **1. Descriptive Statistics**:
    - Calculate basic statistics like mean, median, mode, and standard deviation.
 
    ```python
@@ -17,7 +17,7 @@ Welcome to the world of statistical analysis in Python! This cheat sheet is your
    stdev = stats.stdev(data)
    ```
 
-📈 **2. Probability Distributions**:
+## 📈 **2. Probability Distributions**:
    - Work with probability distributions like normal, binomial, and Poisson.
 
    ```python
@@ -27,7 +27,7 @@ Welcome to the world of statistical analysis in Python! This cheat sheet is your
    normal_dist = norm(loc=0, scale=1)
    ```
 
-📉 **3. Hypothesis Testing**:
+## 📉 **3. Hypothesis Testing**:
    - Perform hypothesis tests such as t-tests and chi-squared tests.
 
    ```python
@@ -37,7 +37,7 @@ Welcome to the world of statistical analysis in Python! This cheat sheet is your
    t_stat, p_value = ttest_ind(group1_data, group2_data)
    ```
 
-🔍 **4. Correlation and Regression**:
+## 🔍 **4. Correlation and Regression**:
    - Calculate correlation coefficients and perform linear regression.
 
    ```python
@@ -47,7 +47,7 @@ Welcome to the world of statistical analysis in Python! This cheat sheet is your
    corr_coeff, _ = pearsonr(x, y)
    ```
 
-🌡️ **5. ANOVA**:
+## 🌡️ **5. ANOVA**:
    - Analyze variance between groups using ANOVA.
 
    ```python
@@ -57,7 +57,7 @@ Welcome to the world of statistical analysis in Python! This cheat sheet is your
    f_stat, p_value = f_oneway(group1_data, group2_data, group3_data)
    ```
 
-📚 **6. Probability and Random Variables**:
+## 📚 **6. Probability and Random Variables**:
    - Generate random variables and calculate probabilities.
 
    ```python
@@ -67,7 +67,7 @@ Welcome to the world of statistical analysis in Python! This cheat sheet is your
    custom_dist = rv_discrete(name='custom', values=([1, 2, 3], [0.1, 0.4, 0.5]))
    ```
 
-📊 **7. Confidence Intervals**:
+## 📊 **7. Confidence Intervals**:
    - Compute confidence intervals for sample statistics.
 
    ```python
@@ -76,7 +76,7 @@ Welcome to the world of statistical analysis in Python! This cheat sheet is your
    ci = sms.DescrStatsW(data).tconfint_mean()
    ```
 
-📉 **8. Non-Parametric Tests**:
+## 📉 **8. Non-Parametric Tests**:
    - Perform non-parametric tests like the Wilcoxon signed-rank test.
 
    ```python
