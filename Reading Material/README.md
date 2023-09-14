@@ -12,7 +12,6 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Beautiful Soup Cheat Sheet](BeautifulSoup%20Cheatsheet.md)                     | Getting started with BeautifulSoup in Python.             |
 | [Best Websites for Programmers](Best%20Websites%20for%20Programmers.md)                     | 10 Essential websites every programmer must know.             |
 | [Branches of Data Science](Branches%20of%20Data%20Science.md)                     | Different Branches of Data Science and Types of Data Science applications |
-| [Data Science Online Courses](Data%20Science%20Courses.md)                                     | Popular Online courses for Data Science |
 | [Hadoop using Python Cheat Sheet](Hadoop%20using%20Python.md)                                     | Setting up environment and getting started with Hadoop using Python |
 | [Matplotlib Cheat Sheet](Matplotlib%20Cheatsheet.md)                                     | A ready reckoner for matplotlib.pyplot equally beneficial for both beginners and experienced folks. |
 | [Model Evaluation Metrics](Model%20Evaluation%20Metrics.md)                                 | Common Metrics used to Evaluate Models pertaining to different kinds of problems, Regression, Classification and Clustering |
@@ -32,6 +31,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Spacy using Python Cheat Sheet](Spacy%20using%20Python.md)                                 | Common uses of Spacy for Natural Language Processing (NLP) |
 | [TensorFlow Cheatsheet](TensorFlow%20Cheatsheet.md)           | A quick reference material for building machine learning models in TensorFlow |
 | [Time Series Analysis Cheatsheet](Time%20Series%20Analysis.md)           | A quick guide to analyzing time series data using Python |
+| [Top 10 Data Science Online Courses](Data%20Science%20Courses.md)                                     | Popular Online courses for Data Science |
 | [Top 10 Data Science Repositories](Top%20Ten%20Data%20Science%20Repositories.md)           | Top 10 Repositories on Github related to Data Science and related libraries. |
 | [Top 10 Data Science Websites](Data%20Science%20Websites.md)                               | Top 10 Websites to learn and explore the world of Data Science. |
 | [Top 50 Data Science Interview Questions](Interview%20Questions%20DS.md)                                     | 50 of the most common interview questions for Data Science, beginner to advance levels |
