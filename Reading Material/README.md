@@ -8,6 +8,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 |-------------------------------------------------|----------------------------------------------------------------|
 | [100 Statistical Concepts for Data science](Stats%20Concepts.md)                           | 100 Statistical Concepts and Key terms every Data Scientist should know. |
 | [50 Most Common Words Data Scientists should know](50%20words%20for%20Data%20Scientists.md) | 50 everyday words in the life of a Data Scientist.           |
+| [ANOVA in Python Cheat Sheet](ANOVA%20using%20Python.md)                     | ANOVA: One way, Two way and Repeated Measures ANOVA with theory and implementation in Python.             |
 | [Bagging and Boosting Cheat Sheet](Bagging%20and%20Boosting.md)                     | Bagging and Boosting ML Algorithms with Python implementation.             |
 | [Beautiful Soup Cheat Sheet](BeautifulSoup%20Cheatsheet.md)                     | Getting started with BeautifulSoup in Python.             |
 | [Best Websites for Programmers](Best%20Websites%20for%20Programmers.md)                     | 10 Essential websites every programmer must know.             |
