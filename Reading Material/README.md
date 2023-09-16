@@ -1,6 +1,6 @@
 # Reading Material Repository 📥
 
-Welcome to the **Reading Material** repository! 📚 This repository is dedicated to providing a collection of useful cheat sheets and resources for various topics related to data science, machine learning, and programming. Whether you're a beginner or an experienced practitioner, these reading materials can serve as handy references and guides.
+Welcome to the **Reading Material** repository! 📚 This repository is dedicated to providing a collection of useful cheat sheets and resources for various topics related to data science, machine learning, and Python programming. Whether you're a beginner or an experienced practitioner, these reading materials can serve as handy references and guides.
 
 # Table of Contents 🗒️
 
