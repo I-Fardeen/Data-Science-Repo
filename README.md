@@ -30,7 +30,11 @@ A collection of reading materials, articles, and resources related to data scien
 
 Utilizing natural language processing techniques to perform sentiment analysis on textual data. Explore how to classify sentiments in texts and gain insights from the results.
 
-## 7. [Topic Modelling using LDA](Topic%20Modelling%20using%20LDA) 🔍
+## 7. [Split Movie Analysis (NLP)](Split%20Movie%20Analysis%20(NLP)) 😒🤓
+
+Scraping Movie reviews from web and analyzing them for sentiments to determine public responses and perception regarding the same. Also, getting recurrent themes and keywords from the corpus.
+
+## 8. [Topic Modelling using LDA](Topic%20Modelling%20using%20LDA) 🔍
 
 Dive into the world of natural language processing with Latent Dirichlet Allocation (LDA). Uncover hidden topics in textual data and understand their applications.
 
