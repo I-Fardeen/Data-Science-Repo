@@ -4,11 +4,11 @@ Made with :heart: by **Fardeen Ahmad Khan**
 
 Welcome to the captivating world of Clustering Techniques in Python! This cheat sheet is your ultimate guide to understanding and applying clustering algorithms for data segmentation and pattern recognition. Make sure to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and Data Science insights! 🙌
 
-🔑 **1. What is Clustering?**:
+## 🔑 **1. What is Clustering?**:
    - Clustering is the process of grouping similar data points together based on their characteristics.
    - It's an unsupervised learning technique used for data exploration and pattern identification.
 
-📈 **2. Types of Clustering Algorithms**:
+## 📈 **2. Types of Clustering Algorithms**:
    - **K-Means Clustering**:
      - Groups data into 'k' clusters by minimizing the sum of squared distances.
      - Example: `KMeans(n_clusters=3)`
@@ -25,7 +25,7 @@ Welcome to the captivating world of Clustering Techniques in Python! This cheat 
      - Shifts cluster centroids towards regions with higher data density.
      - Example: `MeanShift(bandwidth=0.8)`
 
-📊 **3. K-Means Clustering**:
+## 📊 **3. K-Means Clustering**:
    - Import the necessary library.
 
    ```python
@@ -34,7 +34,7 @@ Welcome to the captivating world of Clustering Techniques in Python! This cheat 
    kmeans = KMeans(n_clusters=3)
    ```
 
-🌳 **4. Hierarchical Clustering**:
+## 🌳 **4. Hierarchical Clustering**:
    - Create hierarchical clusters using AgglomerativeClustering.
 
    ```python
@@ -43,7 +43,7 @@ Welcome to the captivating world of Clustering Techniques in Python! This cheat 
    hierarchical = AgglomerativeClustering(n_clusters=3)
    ```
 
-📡 **5. DBSCAN Clustering**:
+## 📡 **5. DBSCAN Clustering**:
    - Use DBSCAN for density-based clustering.
 
    ```python
@@ -52,7 +52,7 @@ Welcome to the captivating world of Clustering Techniques in Python! This cheat 
    dbscan = DBSCAN(eps=0.5, min_samples=5)
    ```
 
-🎯 **6. Mean Shift Clustering**:
+## 🎯 **6. Mean Shift Clustering**:
    - Apply Mean Shift clustering for automatic cluster detection.
 
    ```python
@@ -61,7 +61,7 @@ Welcome to the captivating world of Clustering Techniques in Python! This cheat 
    mean_shift = MeanShift(bandwidth=0.8)
    ```
 
-📚 **7. Evaluation**:
+## 📚 **7. Evaluation**:
    - Assess cluster quality using metrics like Silhouette Score or visual inspection.
 
    ```python
@@ -70,7 +70,7 @@ Welcome to the captivating world of Clustering Techniques in Python! This cheat 
    score = silhouette_score(data, labels)
    ```
 
-📊 **8. Choosing the Right Number of Clusters**:
+## 📊 **8. Choosing the Right Number of Clusters**:
    - Use the Elbow Method or Silhouette Analysis to determine the optimal 'k'.
 
    ```python
