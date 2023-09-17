@@ -1,6 +1,6 @@
 # Pipelines in Python Cheat Sheet 🚀🐍
 
-Made with :heart: by **Fardeen Ahmad Khan**
+Made with :heart: by 
 
 Welcome to the world of Pipelines in Python! This cheat sheet will guide you through the concept of using pipelines for creating efficient and organized workflows in Python. Don't forget to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and Data Science insights! 🙌
 
