@@ -17,7 +17,7 @@ Welcome to the world of Data Visualization with Bokeh in Python! This cheat shee
 9. [Exporting Plots](#exporting-plots)
 10. [Resources](#resources)
 
-## 1. Introduction to Bokeh 🚀
+## 1. Introduction to Bokeh🚀
 
 Bokeh is a powerful Python library for interactive data visualization. It's ideal for creating web-ready, interactive, and visually appealing plots and dashboards.
 
