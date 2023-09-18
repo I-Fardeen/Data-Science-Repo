@@ -12,6 +12,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Bagging and Boosting Cheat Sheet](Bagging%20and%20Boosting.md)                     | Bagging and Boosting ML Algorithms with Python implementation.             |
 | [Beautiful Soup Cheat Sheet](BeautifulSoup%20Cheatsheet.md)                     | Getting started with BeautifulSoup in Python.             |
 | [Best Websites for Programmers](Best%20Websites%20for%20Programmers.md)                     | 10 Essential websites every programmer must know.             |
+| [Bokeh Cheatsheet](Bokeh%20Cheatsheet.md)                     | Web based Data Visualization using Bokeh in Python.             |
 | [Branches of Data Science](Branches%20of%20Data%20Science.md)                     | Different Branches of Data Science and Types of Data Science applications |
 | [Clustering Techniques using Python](Clustering%20Techniques.md)                     | Types of Clustering Techniques in Data Science and their Python Implementations. |
 | [Ensemble Techniques in Python Cheat Sheet](Ensemble%20Techniques%20using%20Python.md)                     | Theory and Implementation of Ensemble Techniques in Python|
