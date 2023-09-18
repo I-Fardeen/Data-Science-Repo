@@ -91,10 +91,26 @@ grid = gridplot([[p1, p2], [p3, p4]])
 Create interactive geographical maps with Bokeh's GeoJSON support:
 
 ```python
+# Import necessary modules
 from bokeh.plotting import figure, show
 from bokeh.tile_sources import get_provider
+from bokeh.models import GeoJSONDataSource
 
+# Create a figure with a tile source (CARTO Positron)
 tile_provider = get_provider('CARTODBPOSITRON')
+p = figure(title="Geographical Map", plot_height=400, plot_width=600,
+           x_range=(-2000000, 6000000), y_range=(-1000000, 7000000),
+           tools='pan, wheel_zoom, reset', toolbar_location="above")
+p.add_tile(tile_provider)
+
+# Define GeoJSON data (replace 'your_geojson_file.geojson' with your data)
+geojson_data = GeoJSONDataSource(geojson=open('your_geojson_file.geojson').read())
+
+# Add GeoJSON patches to the plot (customize color, line color, etc.)
+p.patches('xs', 'ys', source=geojson_data, fill_color='blue', line_color='white', line_width=0.5, alpha=0.7)
+
+# Show the plot
+show(p)
 ```
 
 ## 9. Exporting Plots 📷
