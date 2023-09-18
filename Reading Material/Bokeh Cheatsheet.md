@@ -6,7 +6,7 @@ Welcome to the world of Data Visualization with Bokeh in Python! This cheat shee
 
 ## Table of Contents 🗒️
 
-1. [Introduction to Bokeh](#introduction-to-bokeh)
+1. [Introduction to Bokeh](#1.introduction-to-bokeh)
 2. [Installation](#installation)
 3. [Basic Plot](#basic-plot)
 4. [Customizing Plots](#customizing-plots)
