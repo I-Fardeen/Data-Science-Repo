@@ -7,15 +7,15 @@ Welcome to the world of Data Visualization with Bokeh in Python! This cheat shee
 ## Table of Contents 🗒️
 
 1. [Introduction to Bokeh](#1-introduction-to-bokeh-)
-2. [Installation](#2-installation)
-3. [Basic Plot](#basic-plot)
-4. [Customizing Plots](#customizing-plots)
-5. [Interactive Visualizations](#interactive-visualizations)
-6. [Adding Widgets](#adding-widgets)
-7. [Linking Plots](#linking-plots)
-8. [Geographical Maps](#geographical-maps)
-9. [Exporting Plots](#exporting-plots)
-10. [Resources](#resources)
+2. [Installation](#2-installation-)
+3. [Basic Plot](#3-basic-plot-)
+4. [Customizing Plots](#4-customizing-plots-)
+5. [Interactive Visualizations](#5-interactive-visualizations-)
+6. [Adding Widgets](#6-adding-widgets-)
+7. [Linking Plots](#7-linking-plots-)
+8. [Geographical Maps](#8-geographical-maps-)
+9. [Exporting Plots](#9-exporting-plots-)
+10. [Resources](#10-resources-)
 
 ## 1. Introduction to Bokeh 🚀
 
