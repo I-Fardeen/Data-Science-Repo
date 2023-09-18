@@ -13,7 +13,7 @@ Welcome to the world of Data Visualization with Bokeh in Python! This cheat shee
 5. [Interactive Visualizations](#5-interactive-visualizations-)
 6. [Adding Widgets](#6-adding-widgets-)
 7. [Linking Plots](#7-linking-plots-)
-8. [Geographical Maps](#8-geographical-maps-%EF%B8%8F)
+8. [Geographical Maps](#8-geographical-maps-%EF%B8%8F-)
 9. [Exporting Plots](#9-exporting-plots-)
 10. [Resources](#10-resources-)
 
