@@ -1,5 +1,7 @@
 # SharePoint Library in Python Cheat Sheet 🚀📂
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the world of SharePoint automation in Python! This cheat sheet will guide you through essential operations for interacting with SharePoint using Python. Don't forget to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and programming insights! 🙌
 
 ## Table of Contents 🗒️
@@ -105,3 +107,5 @@ Explore the SharePlum library documentation and SharePoint API for more details:
 Start automating SharePoint tasks with Python!
 
 Happy SharePoint scripting! 🚀📂
+
+Made with :heart: by **Fardeen Ahmad Khan**
