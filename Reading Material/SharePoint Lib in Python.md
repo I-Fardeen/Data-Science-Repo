@@ -1,6 +1,3 @@
-Certainly! Here's a cheat sheet in Markdown format with emojis for "SharePoint Library in Python," along with code examples for each section:
-
-```markdown
 # SharePoint Library in Python Cheat Sheet 🚀📂
 
 Welcome to the world of SharePoint automation in Python! This cheat sheet will guide you through essential operations for interacting with SharePoint using Python. Don't forget to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and programming insights! 🙌
