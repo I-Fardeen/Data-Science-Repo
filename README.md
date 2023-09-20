@@ -38,4 +38,4 @@ Scraping Movie reviews from web and analyzing them for sentiments to determine p
 
 Dive into the world of natural language processing with Latent Dirichlet Allocation (LDA). Uncover hidden topics in textual data and understand their applications.
 
-Feel free to explore each project's directory for detailed documentation, code, and resources. Whether you're a beginner or an experienced data scientist, these projects offer a wealth of learning opportunities. Happy exploring! 🚀
+Feel free to explore each project's directory for detailed documentation, code, and resources. Whether you're a beginner or an experienced data science professional, these projects offer a wealth of learning opportunities. Happy exploring! 🚀
