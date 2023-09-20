@@ -105,6 +105,3 @@ Explore the SharePlum library documentation and SharePoint API for more details:
 Start automating SharePoint tasks with Python!
 
 Happy SharePoint scripting! 🚀📂
-```
-
-This cheat sheet provides an introduction to SharePoint automation in Python and includes code examples for performing various SharePoint operations. It serves as a handy reference for working with SharePoint using Python.
