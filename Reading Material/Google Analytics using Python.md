@@ -1,5 +1,7 @@
 # Connect to Google Analytics in Python Cheat Sheet 🚀📊
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the world of Google Analytics data analysis in Python! This cheat sheet will guide you through the process of connecting to Google Analytics using Python. Don't forget to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and programming insights! 🙌
 
 ## Table of Contents 🗒️
@@ -123,3 +125,5 @@ Explore the Google Analytics API documentation and tutorials for more details:
 Start connecting to Google Analytics and analyzing your website data with Python!
 
 Happy data analysis! 🚀📊
+
+Made with :heart: by **Fardeen Ahmad Khan**
