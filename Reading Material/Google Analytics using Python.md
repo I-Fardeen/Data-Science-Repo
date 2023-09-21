@@ -120,7 +120,6 @@ except Exception as e:
 Explore the Google Analytics API documentation and tutorials for more details:
 
 - [Google Analytics API Documentation](https://developers.google.com/analytics)
-- [Google Analytics Reporting API v4 Python Quickstart](https://developers.google.com/analytics/devguides/reporting/core/v4/quickstart)
 
 Start connecting to Google Analytics and analyzing your website data with Python!
 
