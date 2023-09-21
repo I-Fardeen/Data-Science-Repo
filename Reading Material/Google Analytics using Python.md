@@ -123,6 +123,3 @@ Explore the Google Analytics API documentation and tutorials for more details:
 Start connecting to Google Analytics and analyzing your website data with Python!
 
 Happy data analysis! 🚀📊
-```
-
-This cheat sheet provides an introduction to connecting to Google Analytics in Python and includes code examples for retrieving, querying, and visualizing Google Analytics data. It serves as a handy reference for working with Google Analytics using Python.
