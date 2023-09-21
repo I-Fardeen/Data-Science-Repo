@@ -1,6 +1,3 @@
-Certainly! Here's a cheat sheet in Markdown format with emojis for "Connect to Google Analytics in Python," along with code examples for each section:
-
-```markdown
 # Connect to Google Analytics in Python Cheat Sheet 🚀📊
 
 Welcome to the world of Google Analytics data analysis in Python! This cheat sheet will guide you through the process of connecting to Google Analytics using Python. Don't forget to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and programming insights! 🙌
