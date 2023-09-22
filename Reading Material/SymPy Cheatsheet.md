@@ -123,6 +123,3 @@ Explore the SymPy documentation and tutorials for more details:
 Start performing symbolic mathematics with SymPy in Python!
 
 Happy symbolic computing! 🚀📝
-```
-
-This cheat sheet provides an introduction to using the SymPy library in Python for symbolic mathematics. It includes code examples for creating symbolic expressions, solving equations, performing calculus, linear algebra, differential equations, and more. It serves as a handy reference for working with symbolic mathematics using SymPy.
