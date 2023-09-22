@@ -1,5 +1,7 @@
 # SymPy Library in Python Cheat Sheet 🚀📝
 
+Made with :heart: by **Fardeen Ahamd Khan**
+
 Welcome to the world of symbolic mathematics with SymPy in Python! This cheat sheet will guide you through essential operations and calculations using the SymPy library. Don't forget to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and programming insights! 🙌
 
 ## Table of Contents 🗒️
@@ -123,3 +125,5 @@ Explore the SymPy documentation and tutorials for more details:
 Start performing symbolic mathematics with SymPy in Python!
 
 Happy symbolic computing! 🚀📝
+
+Made with :heart: by **Fardeen Ahamd Khan**
