@@ -89,7 +89,7 @@ except Exception as e:
 Explore more about Perceptrons and neural networks:
 
 - [Perceptron Algorithm](https://en.wikipedia.org/wiki/Perceptron)
-- [Introduction to Neural Networks](https://www.learnpython.org/en/Neural_Networks)
+- [Artificial Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network)
 
 Start your journey into neural networks by creating and training a Perceptron in Python!
 
