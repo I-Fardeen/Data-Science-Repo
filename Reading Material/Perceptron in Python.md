@@ -1,6 +1,3 @@
-Certainly! Here's a cheat sheet in Markdown format with emojis for "Creating a Perceptron in Python," along with code examples for each section:
-
-```markdown
 # Creating a Perceptron in Python Cheat Sheet 🚀🧠
 
 Welcome to the world of Perceptrons, the simplest form of neural networks! This cheat sheet will guide you through creating and training a Perceptron in Python from scratch. Don't forget to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and programming insights! 🙌
