@@ -92,6 +92,3 @@ Explore more about Perceptrons and neural networks:
 Start your journey into neural networks by creating and training a Perceptron in Python!
 
 Happy learning and building! 🚀🧠
-```
-
-This cheat sheet provides an introduction to creating a Perceptron in Python from scratch. It includes code examples for creating a Perceptron class, training the Perceptron, making predictions, and handling errors. It serves as a handy reference for building basic neural networks with Perceptrons.
