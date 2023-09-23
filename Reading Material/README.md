@@ -28,6 +28,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Numpy Cheat Sheet](Numpy%20Cheatsheet.md)                                               | A cheat sheet showcasing essential functions and operations provided by Numpy, a fundamental library for numerical computations. |
 | [OS Library in Python Cheat Sheet](OS%20Lib%20in%20Python%20Cheatsheet.md)                                             | A beginner's guide to OS library in Python. |
 | [Pandas Cheat Sheet](Pandas%20Cheatsheet.md)                                             | A quick reference guide for using Pandas, a popular data manipulation library in Python. |
+| [Perceptron in Python](Perceptron%20in%20Python.md)                                             | Creating and training a Perceptron in Python and predicting values using the same. |
 | [Piplelines in Python](Pipelines%20in%20Python.md)                                             | An intro to Pipelines in Python and how to use them for Machine Learning. |
 | [Plotly and Dash Cheat Sheet](Plotly%20and%20Dash%20Cheatsheet.md)                                             | Working with Plotly and Dash in Python for visualization. |
 | [Polars Library Cheat Sheet](Polars%20Lib%20Cheatsheet.md)                                             | Using Polars Library in Python for manipulating tabular data. |
