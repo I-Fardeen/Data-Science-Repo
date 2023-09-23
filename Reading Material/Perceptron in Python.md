@@ -1,5 +1,7 @@
 # Creating a Perceptron in Python Cheat Sheet 🚀🧠
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the world of Perceptrons, the simplest form of neural networks! This cheat sheet will guide you through creating and training a Perceptron in Python from scratch. Don't forget to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and programming insights! 🙌
 
 ## Table of Contents 🗒️
@@ -92,3 +94,5 @@ Explore more about Perceptrons and neural networks:
 Start your journey into neural networks by creating and training a Perceptron in Python!
 
 Happy learning and building! 🚀🧠
+
+Made with :heart: by **Fardeen Ahmad Khan**
