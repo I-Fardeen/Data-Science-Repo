@@ -124,7 +124,7 @@ except Exception as e:
 Explore more about Sci-kit Image and image processing:
 
 - [Sci-kit Image Documentation](https://scikit-image.org/docs/stable/index.html)
-- [Image Processing with Sci-kit Image](https://towardsdatascience.com/image-processing-with-scikit-image-2-382fb7c7c2d1)
+- [Getting Started with Sci-kit Image](https://scikit-image.org/docs/stable/user_guide/install.html)
 
 Start your journey into image processing and analysis with Sci-kit Image in Python!
 
