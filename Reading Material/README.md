@@ -36,6 +36,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Regression Techniques Cheat Sheet](Regression%20Techniques.md)                                             | Common Regression Techniques used in Data Science |
 | [Requests Library Cheat Sheet](Requests%20Cheatsheet.md)                                             | Handling HTTP requests using Python's requests library |
 | [Roadmap to Becoming a Data Scientist](Data%20Science%20Roadmap.md)                         | A roadmap outlining the steps to become an adept Data Scientist. |
+| [Sci-Kit Image Cheat Sheet](Scikit%20Image%20Cheatsheet.md)                                 | A refernce sheet for Image Processing in Python using Sci-Kit Image. |
 | [Sci-Kit Learn Cheat Sheet](Scikit%20Learn%20Cheatsheet.md)                                 | A sheet outlining basic operations and tools of sklearn which are used frequently. |
 | [Selenium Web Scraping Cheat Sheet](Selenium%20Web%20Scraping.md)                                 | A reference guide to learning web scraping using Selenium |
 | [SharePoint Library in Python](SharePoint%20Lib%20in%20Python.md)                                 | Setting up and working with SharePoint in Python. |
