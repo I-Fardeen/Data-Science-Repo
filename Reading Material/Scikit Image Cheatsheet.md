@@ -1,5 +1,7 @@
 # Sci-kit Image Library in Python Cheat Sheet 🚀🖼️
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the world of image processing with the Sci-kit Image library in Python! This cheat sheet will guide you through various image manipulation and analysis tasks using Sci-kit Image. Don't forget to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and programming insights! 🙌
 
 ## Table of Contents 🗒️
