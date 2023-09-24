@@ -129,3 +129,5 @@ Explore more about Sci-kit Image and image processing:
 Start your journey into image processing and analysis with Sci-kit Image in Python!
 
 Happy image processing! 🚀🖼️
+
+Made with :heart: by **Fardeen Ahmad Khan**
