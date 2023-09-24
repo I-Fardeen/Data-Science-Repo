@@ -127,6 +127,3 @@ Explore more about Sci-kit Image and image processing:
 Start your journey into image processing and analysis with Sci-kit Image in Python!
 
 Happy image processing! 🚀🖼️
-```
-
-This cheat sheet provides an introduction to image processing with the Sci-kit Image library in Python. It includes code examples for reading and displaying images, basic image operations, filtering, segmentation, feature extraction, image transformation, and error handling. It serves as a handy reference for various image-related tasks using Sci-kit Image.
