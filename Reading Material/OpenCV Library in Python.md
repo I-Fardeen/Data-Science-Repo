@@ -129,4 +129,4 @@ Start your journey into computer vision and image processing with OpenCV in Pyth
 Happy coding! 🚀📸
 ```
 
-This cheat sheet provides an introduction to image processing with the OpenCV library in Python. It includes code examples for reading and displaying images, basic image operations, filtering, segmentation, feature detection and matching, camera calibration, object detection, and error handling. It serves as a handy reference for various image-related tasks using OpenCV.
+This cheat sheet provides an introduction to image processing with the OpenCV library in Python. It includes code examples for reading and displaying images, basic image operations, filtering, segmentati
