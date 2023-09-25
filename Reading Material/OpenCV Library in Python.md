@@ -129,3 +129,5 @@ Explore more about OpenCV and computer vision:
 Start your journey into computer vision and image processing with OpenCV in Python!
 
 Happy coding! 🚀📸
+
+Made with :heart: by **Fardeen Ahmad Khan**
