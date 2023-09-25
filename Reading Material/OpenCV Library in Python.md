@@ -124,7 +124,7 @@ except Exception as e:
 Explore more about OpenCV and computer vision:
 
 - [OpenCV Documentation](https://docs.opencv.org/master/index.html)
-- [OpenCV Python Tutorials](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html)
+- [OpenCV Introduction](https://docs.opencv.org/4.x/d1/dfb/intro.html)
 
 Start your journey into computer vision and image processing with OpenCV in Python!
 
