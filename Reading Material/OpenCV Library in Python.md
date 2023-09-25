@@ -1,5 +1,7 @@
 # OpenCV Library in Python Cheat Sheet 🚀📸
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the world of computer vision and image processing with the OpenCV library in Python! This cheat sheet will guide you through various image-related tasks using OpenCV. Don't forget to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and programming insights! 🙌
 
 ## Table of Contents 🗒️
