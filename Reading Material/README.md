@@ -26,6 +26,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Networking Commands Cheat Sheet](Networking%20Commands.md)                                 | Frequently used networking commands to troubleshoot networking errors or check network stats. |
 | [Neural Networks using Python](Neural%20Networks%20using%20Python.md)                                 | Building Neural Networks using Python and Tensor Flow |
 | [Numpy Cheat Sheet](Numpy%20Cheatsheet.md)                                               | A cheat sheet showcasing essential functions and operations provided by Numpy, a fundamental library for numerical computations. |
+| [OpenCV Library in Python](OpenCV%20Library%20in%20Python.md)                                             | Getting started with OpenCV for image processing in Python. |
 | [OS Library in Python Cheat Sheet](OS%20Lib%20in%20Python%20Cheatsheet.md)                                             | A beginner's guide to OS library in Python. |
 | [Pandas Cheat Sheet](Pandas%20Cheatsheet.md)                                             | A quick reference guide for using Pandas, a popular data manipulation library in Python. |
 | [Perceptron in Python](Perceptron%20in%20Python.md)                                             | Creating and training a Perceptron in Python and predicting values using the same. |
