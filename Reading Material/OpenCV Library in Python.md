@@ -127,6 +127,3 @@ Explore more about OpenCV and computer vision:
 Start your journey into computer vision and image processing with OpenCV in Python!
 
 Happy coding! 🚀📸
-```
-
-This cheat sheet provides an introduction to image processing with the OpenCV library in Python.
