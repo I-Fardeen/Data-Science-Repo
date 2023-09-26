@@ -110,6 +110,3 @@ Explore more about RNNs and deep learning:
 Start your journey into the world of Recurrent Neural Networks and unlock the potential of sequence data modeling!
 
 Happy coding and modeling! 🚀📊
-```
-
-This cheat sheet introduces Recurrent Neural Networks (RNNs) using Python
