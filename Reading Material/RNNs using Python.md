@@ -112,4 +112,4 @@ Start your journey into the world of Recurrent Neural Networks and unlock the po
 Happy coding and modeling! 🚀📊
 ```
 
-This cheat sheet introduces Recurrent Neural Networks (RNNs) using Python and includes code examples for creating RNN models, addressing the vanishing gradient problem, working with LSTM and GRU architectures, text generation, time series prediction, and stock price prediction.
+This cheat sheet introduces Recurrent Neural Networks (RNNs) using Python
