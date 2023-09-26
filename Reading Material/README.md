@@ -36,6 +36,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [PySpark Cheat Sheet](PySpark%20Cheatsheet.md)                                             | Getting started with Spark using Python's PySpark library |
 | [Regression Techniques Cheat Sheet](Regression%20Techniques.md)                                             | Common Regression Techniques used in Data Science |
 | [Requests Library Cheat Sheet](Requests%20Cheatsheet.md)                                             | Handling HTTP requests using Python's requests library |
+| [RNNs using Python Cheat Sheet](RNNs%20using%20Python.md)                         | Introduction to Recurrent Neural Networks in Python. |
 | [Roadmap to Becoming a Data Scientist](Data%20Science%20Roadmap.md)                         | A roadmap outlining the steps to become an adept Data Scientist. |
 | [Sci-Kit Image Cheat Sheet](Scikit%20Image%20Cheatsheet.md)                                 | A refernce sheet for Image Processing in Python using Sci-Kit Image. |
 | [Sci-Kit Learn Cheat Sheet](Scikit%20Learn%20Cheatsheet.md)                                 | A sheet outlining basic operations and tools of sklearn which are used frequently. |
