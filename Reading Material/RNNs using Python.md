@@ -1,6 +1,3 @@
-Certainly! Here's a cheat sheet in Markdown format with emojis for "Recurrent Neural Networks (RNNs) using Python," along with code examples for each section:
-
-```markdown
 # Recurrent Neural Networks (RNNs) using Python Cheat Sheet 🚀📊
 
 Welcome to the world of Recurrent Neural Networks (RNNs) in Python! This cheat sheet will guide you through the fundamentals of RNNs and provide code examples for better understanding. Don't forget to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and machine learning insights! 🙌
