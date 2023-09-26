@@ -1,5 +1,7 @@
 # Recurrent Neural Networks (RNNs) using Python Cheat Sheet 🚀📊
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the world of Recurrent Neural Networks (RNNs) in Python! This cheat sheet will guide you through the fundamentals of RNNs and provide code examples for better understanding. Don't forget to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and machine learning insights! 🙌
 
 ## Table of Contents 🗒️
