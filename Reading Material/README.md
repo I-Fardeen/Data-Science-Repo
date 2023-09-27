@@ -25,6 +25,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [MySQL using Python Cheat Sheet](MySQL%20using%20Python.md)                                 | Execute and manage MySQL queries in Python |
 | [Networking Commands Cheat Sheet](Networking%20Commands.md)                                 | Frequently used networking commands to troubleshoot networking errors or check network stats. |
 | [Neural Networks using Python](Neural%20Networks%20using%20Python.md)                                 | Building Neural Networks using Python and Tensor Flow |
+| [Numba Library Cheat Sheet](Numba%20Library%20Cheatsheet.md)                                               | An introduction to Numba, a lightning fast library in Python for numerical computations. |
 | [Numpy Cheat Sheet](Numpy%20Cheatsheet.md)                                               | A cheat sheet showcasing essential functions and operations provided by Numpy, a fundamental library for numerical computations. |
 | [OpenCV Library in Python](OpenCV%20Library%20in%20Python.md)                                             | Getting started with OpenCV for image processing in Python. |
 | [OS Library in Python Cheat Sheet](OS%20Lib%20in%20Python%20Cheatsheet.md)                                             | A beginner's guide to OS library in Python. |
