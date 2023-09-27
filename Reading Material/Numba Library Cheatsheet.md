@@ -1,6 +1,3 @@
-Certainly! Here's a cheat sheet in Markdown format with emojis for the "Numba Library in Python," along with code examples for each section:
-
-```markdown
 # Numba Library in Python Cheat Sheet 🚀🔢
 
 Welcome to the world of high-performance Python with Numba! This cheat sheet will guide you through the essentials of Numba and provide code examples for better understanding. Don't forget to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python insights and optimization tips! 🙌
