@@ -107,4 +107,4 @@ Unleash the power of Numba to turbocharge your Python code and achieve faster co
 Happy optimizing and coding! 🚀🔢
 ```
 
-This cheat sheet introduces the Numba library in Python, covers its basics, optimizing NumPy operations, parallelization, Just-In-Time compilation, GPU support, and more.
+This cheat sheet introduces the Numba library in Python.
