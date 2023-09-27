@@ -105,6 +105,3 @@ Explore more about Numba and high-performance Python:
 Unleash the power of Numba to turbocharge your Python code and achieve faster computations!
 
 Happy optimizing and coding! 🚀🔢
-```
-
-This cheat sheet introduces the Numba library in Python.
