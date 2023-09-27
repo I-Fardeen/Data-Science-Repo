@@ -107,3 +107,5 @@ Explore more about Numba and high-performance Python:
 Unleash the power of Numba to turbocharge your Python code and achieve faster computations!
 
 Happy optimizing and coding! 🚀🔢
+
+Made with :heart: by **Fardeen Ahmad Khan**
