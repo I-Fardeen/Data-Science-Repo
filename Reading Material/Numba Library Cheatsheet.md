@@ -1,5 +1,7 @@
 # Numba Library in Python Cheat Sheet 🚀🔢
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the world of high-performance Python with Numba! This cheat sheet will guide you through the essentials of Numba and provide code examples for better understanding. Don't forget to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python insights and optimization tips! 🙌
 
 ## Table of Contents 🗒️
