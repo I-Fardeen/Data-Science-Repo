@@ -106,4 +106,3 @@ Explore more about SunPy and solar physics in Python:
 Dive into the fascinating world of solar physics and unleash the power of SunPy for your solar data analysis!
 
 Happy solar exploration and coding! 🌞🚀
-```
