@@ -1,5 +1,3 @@
-Certainly! Here's a cheat sheet in Markdown format with emojis for the "SunPy Library in Python," along with code examples for each section:
-
 # SunPy Library in Python Cheat Sheet 🌞🚀
 
 Welcome to the world of solar physics with SunPy! This cheat sheet will guide you through the essentials of the SunPy library and provide code examples for better understanding. Don't forget to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python insights and scientific explorations! 🙌
