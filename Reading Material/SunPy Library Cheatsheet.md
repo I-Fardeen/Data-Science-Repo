@@ -107,5 +107,3 @@ Dive into the fascinating world of solar physics and unleash the power of SunPy 
 
 Happy solar exploration and coding! 🌞🚀
 ```
-
-This cheat sheet introduces the SunPy library in Python, covering solar data handling, coordinates and time handling, solar observations, visualization, analysis, working with FITS files, and more.
