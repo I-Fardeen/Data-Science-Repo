@@ -1,5 +1,7 @@
 # Xarray Library in Python Cheat Sheet 📦🔍
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the world of multi-dimensional labeled arrays with Xarray! This cheat sheet will guide you through the essentials of the Xarray library and provide code examples for better understanding. Don't forget to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python insights and scientific explorations! 🙌
 
 ## Table of Contents 🗒️
