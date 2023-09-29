@@ -94,4 +94,4 @@ Xarray simplifies complex data manipulation tasks and is a valuable tool for han
 Happy data exploration and coding! 📦🔍
 ```
 
-This cheat sheet introduces the Xarray library in Python, covering data structure creation, data selection, operations, groupby functions, time series handling, and plotting. It's a quick reference for those interested in handling multi-dimensional labeled arrays with Xarray.
+This cheat sheet introduces the Xarray library in Python, covering data structure creation, data selection, operations, groupby functions, time series handling, and plotting. It's a quick reference for those interested in handling multi-dimensional labeled arrays with 
