@@ -92,5 +92,3 @@ Explore more about Xarray and multi-dimensional data handling in Python:
 Xarray simplifies complex data manipulation tasks and is a valuable tool for handling labeled, multi-dimensional data in Python.
 
 Happy data exploration and coding! 📦🔍
-```
-, covering data structure creation, data selection, operations, groupby functions, time series handling, and plotting. It's a quick reference for those interested in handling multi-dimensional labeled arrays with 
