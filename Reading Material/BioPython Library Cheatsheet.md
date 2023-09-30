@@ -87,3 +87,5 @@ Explore more about BioPython and its applications in bioinformatics:
 BioPython is a valuable library for bioinformaticians and scientists working with biological data. It simplifies complex tasks and data manipulation in the field of biology.
 
 Happy bioinformatics and coding! 🧬🐍
+
+Made with :heart: by **Fardeen Ahmad Khan**
