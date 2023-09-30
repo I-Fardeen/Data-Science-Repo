@@ -13,6 +13,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Beautiful Soup Cheat Sheet](BeautifulSoup%20Cheatsheet.md)                     | Getting started with BeautifulSoup in Python.             |
 | [Best Websites for Programmers](Best%20Websites%20for%20Programmers.md)                     | 10 Essential websites every programmer must know.             |
 | [Bokeh Cheatsheet](Bokeh%20Cheatsheet.md)                     | Web based Data Visualization using Bokeh in Python.             |
+| [BioPython Library Cheatsheet](BioPython%20Library%20Cheatsheet.md)                     | This cheat sheet introduces BioPython library in Python, It's a quick reference for bioinformatics and computational biology using Python.             |
 | [Branches of Data Science](Branches%20of%20Data%20Science.md)                     | Different Branches of Data Science and Types of Data Science applications |
 | [Clustering Techniques using Python](Clustering%20Techniques.md)                     | Types of Clustering Techniques in Data Science and their Python Implementations. |
 | [Dataframes using Polars Cheat Sheet](Dataframes%20using%20Polars.md)                     | Creating and Manipulating dataframes using Polars Library in Python. |
