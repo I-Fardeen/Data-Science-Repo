@@ -90,4 +90,4 @@ BioPython is a valuable library for bioinformaticians and scientists working wit
 Happy bioinformatics and coding! 🧬🐍
 ```
 
-This cheat sheet introduces the BioPython library in Python, covering sequence manipulation, file format parsing, BLAST searches, and phylogenetic tree handling. It's a quick reference for those interested in bioinformatics and computational biology using Python.
+This cheat sheet introduces the BioPython library in Python, covering sequence manipulation, file format parsing, BLAST searches, and phylogenetic tree handling.
