@@ -1,4 +1,4 @@
-Certainly! Here's a cheat sheet in Markdown format with emojis for the "BioPython Library in Python," along with code examples for each section:
+A cheat sheet in Markdown format with emojis for the "BioPython Library in Python," along with code examples for each section:
 
 ```markdown
 # BioPython Library in Python Cheat Sheet 🧬🐍
