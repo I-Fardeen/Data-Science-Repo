@@ -90,8 +90,7 @@ Explore more about DiPy and its applications in diffusion MRI and brain mapping:
 - [DiPy Documentation](https://dipy.org/documentation/stable/)
 - [DiPy GitHub Repository](https://github.com/nipy/dipy)
 
-DiPy is an invaluable tool for neuroscientists, radiologists, and researchers in the field of brain imaging. It simplifies complex tasks related to diffusion MRI data analysis.
-
+DiPy is an invaluable tool for neuroscientists, radiologists, and researchers in the field of brain imaging.
 Happy brain mapping and coding! 🧠🧪
 ```
 
