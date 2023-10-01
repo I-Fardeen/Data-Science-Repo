@@ -94,4 +94,4 @@ DiPy is an invaluable tool for neuroscientists, radiologists, and researchers in
 Happy brain mapping and coding! 🧠🧪
 ```
 
-This cheat sheet introduces the DiPy library in Python, covering diffusion MRI basics, creating diffusion tensor images, tractography, connectivity analysis, and visualization.
+This cheat sheet introduces the DiPy library in Python,
