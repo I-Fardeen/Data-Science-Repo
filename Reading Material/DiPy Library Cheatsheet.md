@@ -1,5 +1,7 @@
 # DiPy Library in Python Cheat Sheet 🧠🧪
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the world of diffusion MRI and brain mapping with DiPy! This cheat sheet will guide you through the essential features of the DiPy library and provide code examples for better understanding. Don't forget to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python insights and scientific explorations! 🙌
 
 ## Table of Contents 🗒️
@@ -89,3 +91,5 @@ Explore more about DiPy and its applications in diffusion MRI and brain mapping:
 
 DiPy is an invaluable tool for neuroscientists, radiologists, and researchers in the field of brain imaging.
 Happy brain mapping and coding! 🧠🧪
+
+Made with :heart: by **Fardeen Ahmad Khan**
