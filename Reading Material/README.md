@@ -17,6 +17,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Branches of Data Science](Branches%20of%20Data%20Science.md)                     | Different Branches of Data Science and Types of Data Science applications |
 | [Clustering Techniques using Python](Clustering%20Techniques.md)                     | Types of Clustering Techniques in Data Science and their Python Implementations. |
 | [Dataframes using Polars Cheat Sheet](Dataframes%20using%20Polars.md)                     | Creating and Manipulating dataframes using Polars Library in Python. |
+| [DiPy Library Cheat Sheet](DiPy%20Library%20Cheatsheet.md)                     | This cheat sheet introduces the DiPy library in Python. A guide for brain imaging and connectivity analysis using Python. |
 | [Ensemble Techniques in Python Cheat Sheet](Ensemble%20Techniques%20using%20Python.md)                     | Theory and Implementation of Ensemble Techniques in Python|
 | [Google Analytics using Python](Google%20Analytics%20using%20Python.md)                     | Connecting to Google Analytics and extracting insights using Python. |
 | [Hadoop using Python Cheat Sheet](Hadoop%20using%20Python.md)                                     | Setting up environment and getting started with Hadoop using Python |
