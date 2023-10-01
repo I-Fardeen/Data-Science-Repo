@@ -92,5 +92,3 @@ Explore more about DiPy and its applications in diffusion MRI and brain mapping:
 
 DiPy is an invaluable tool for neuroscientists, radiologists, and researchers in the field of brain imaging.
 Happy brain mapping and coding! 🧠🧪
-```
-
