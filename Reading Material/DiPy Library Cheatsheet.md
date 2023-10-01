@@ -94,4 +94,3 @@ DiPy is an invaluable tool for neuroscientists, radiologists, and researchers in
 Happy brain mapping and coding! 🧠🧪
 ```
 
-This cheat sheet introduces the DiPy library in Python,
