@@ -1,6 +1,3 @@
-Certainly! Here's a cheat sheet in Markdown format with emojis for the "DiPy Library in Python," along with code examples for each section:
-
-```markdown
 # DiPy Library in Python Cheat Sheet 🧠🧪
 
 Welcome to the world of diffusion MRI and brain mapping with DiPy! This cheat sheet will guide you through the essential features of the DiPy library and provide code examples for better understanding. Don't forget to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python insights and scientific explorations! 🙌
