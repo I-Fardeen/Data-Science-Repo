@@ -102,4 +102,4 @@ AstroPy is an indispensable tool for astronomers, astrophysicists, and anyone ex
 Happy stargazing and coding! 🌌🪐
 ```
 
-This cheat sheet introduces the AstroPy library in Python, covering celestial coordinates, time, units, constants, FITS files, celestial calculations, and astronomical tables. It's a quick reference for those interested in astronomy and astrophysics using Python.
+This cheat sheet introduces the AstroPy library in Python, covering celestial coordinates, time, units, constants, FITS files, celestial calculations, and astronomical tables.
