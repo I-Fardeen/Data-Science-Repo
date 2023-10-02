@@ -99,3 +99,5 @@ Explore more about AstroPy and its applications in astronomy and astrophysics:
 AstroPy is an indispensable tool for astronomers, astrophysicists, and anyone exploring the mysteries of the cosmos. It simplifies complex tasks related to astronomical calculations.
 
 Happy stargazing and coding! 🌌🪐
+
+Made with :heart: by **Fardeen Ahmad Khan**
