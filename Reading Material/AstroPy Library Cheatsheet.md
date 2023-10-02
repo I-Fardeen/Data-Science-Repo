@@ -101,5 +101,3 @@ AstroPy is an indispensable tool for astronomers, astrophysicists, and anyone ex
 
 Happy stargazing and coding! 🌌🪐
 ```
-
-This cheat sheet introduces the AstroPy library in Python.
