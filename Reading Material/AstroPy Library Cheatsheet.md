@@ -1,7 +1,6 @@
-Certainly! Here's a cheat sheet in Markdown format with emojis for the "AstroPy Library in Python," along with code examples for each section:
-
-```markdown
 # AstroPy Library in Python Cheat Sheet 🌌🪐
+
+Made with :heart: by **Fardeen Ahmad Khan**
 
 Welcome to the cosmos of astronomy and astrophysics with AstroPy! This cheat sheet will guide you through the essential features of the AstroPy library and provide code examples for better understanding. Don't forget to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python insights and scientific explorations! 🌟
 
