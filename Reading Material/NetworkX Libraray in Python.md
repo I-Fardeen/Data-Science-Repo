@@ -91,6 +91,3 @@ Explore more about NetworkX and its applications in network analysis:
 NetworkX is an essential tool for network scientists, data analysts, and anyone dealing with complex network data.
 
 Happy graphing and coding! 🌐🔗
-```
-
-This cheat sheet introduces the NetworkX library in Python, covering graph creation, node and edge addition, graph analysis, visualization, and the use of built-in algorithms. It's a quick reference for those interested in network analysis and graph theory using Python.
