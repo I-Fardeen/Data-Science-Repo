@@ -1,6 +1,3 @@
-Certainly! Here's a cheat sheet in Markdown format with emojis for the "PyMC Library in Python," along with code examples for each section:
-
-```
 # PyMC Library in Python Cheat Sheet 📊🔍
 
 Welcome to the world of Bayesian statistics and probabilistic programming with PyMC! This cheat sheet will guide you through the essential features of the PyMC library and provide code examples for better understanding. Don't forget to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python insights and Bayesian exploration! 🌟
