@@ -94,4 +94,4 @@ PyMC is a powerful tool for Bayesian data analysis and probabilistic modeling in
 Enjoy exploring the world of Bayesian statistics with PyMC! 📊🔍
 ```
 
-This cheat sheet provides an introduction to the PyMC library in Python.
+
