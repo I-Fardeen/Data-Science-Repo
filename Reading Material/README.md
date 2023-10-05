@@ -29,6 +29,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Networking Commands Cheat Sheet](Networking%20Commands.md)                                 | Frequently used networking commands to troubleshoot networking errors or check network stats. |
 | [NetworkX Library Cheatsheet](NetworkX%20Libraray%20in%20Python.md)                                 | Create, Analyze and Visualize complex graphs in Python |
 | [Neural Networks using Python](Neural%20Networks%20using%20Python.md)                                 | Building Neural Networks using Python and Tensor Flow |
+| [NIPy Library Cheat Sheet](NIPy%20Library%20Cheatsheet.md)                                               | This cheat sheet provides an introduction to the NIPy library in Python to work with brain imaging data using Python. |
 | [Numba Library Cheat Sheet](Numba%20Library%20Cheatsheet.md)                                               | An introduction to Numba, a lightning fast library in Python for numerical computations. |
 | [Numpy Cheat Sheet](Numpy%20Cheatsheet.md)                                               | A cheat sheet showcasing essential functions and operations provided by Numpy, a fundamental library for numerical computations. |
 | [OpenCV Library in Python](OpenCV%20Library%20in%20Python.md)                                             | Getting started with OpenCV for image processing in Python. |
