@@ -112,6 +112,3 @@ Learn more about NIPy and neuroimaging data analysis:
 - [NIPy GitHub Repository](https://github.com/nipy/nipype)
 
 NIPy is your gateway to the fascinating world of neuroimaging data analysis. Unleash the power of brain imaging with Python! 🧠📊
-```
-
-This cheat sheet provides an introduction to the NIPy library in Python.
