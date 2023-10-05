@@ -114,4 +114,4 @@ Learn more about NIPy and neuroimaging data analysis:
 NIPy is your gateway to the fascinating world of neuroimaging data analysis. Unleash the power of brain imaging with Python! 🧠📊
 ```
 
-This cheat sheet provides an introduction to the NIPy library in Python, covering neuroimaging data analysis, data preprocessing, statistical analysis, visualization, and advanced features.
+This cheat sheet provides an introduction to the NIPy library in Python.
