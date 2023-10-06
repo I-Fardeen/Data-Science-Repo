@@ -116,5 +116,3 @@ Learn more about SciPy and scientific computing:
 
 SciPy is your scientific toolbox in Python, empowering you to solve complex problems in various fields. Dive into the world of scientific computing! 🧪🐍
 ```
-
-This cheat sheet provides an introduction to the SciPy library in Python, covering basic operations, linear algebra, numerical integration, optimization, statistics, signal processing, and image processing. It's a quick reference for those interested in scientific computing using Python.
