@@ -47,6 +47,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Roadmap to Becoming a Data Scientist](Data%20Science%20Roadmap.md)                         | A roadmap outlining the steps to become an adept Data Scientist. |
 | [Sci-Kit Image Cheat Sheet](Scikit%20Image%20Cheatsheet.md)                                 | A refernce sheet for Image Processing in Python using Sci-Kit Image. |
 | [Sci-Kit Learn Cheat Sheet](Scikit%20Learn%20Cheatsheet.md)                                 | A sheet outlining basic operations and tools of sklearn which are used frequently. |
+| [SciPy Cheat Sheet](SciPy%20Cheatsheet.md)                                 | A ready reference for using SciPy library in Python. |
 | [Selenium Web Scraping Cheat Sheet](Selenium%20Web%20Scraping.md)                                 | A reference guide to learning web scraping using Selenium |
 | [SharePoint Library in Python](SharePoint%20Lib%20in%20Python.md)                                 | Setting up and working with SharePoint in Python. |
 | [Spacy using Python Cheat Sheet](Spacy%20using%20Python.md)                                 | Common uses of Spacy for Natural Language Processing (NLP) |
