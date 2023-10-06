@@ -115,4 +115,3 @@ Learn more about SciPy and scientific computing:
 - [SciPy GitHub Repository](https://github.com/scipy/scipy)
 
 SciPy is your scientific toolbox in Python, empowering you to solve complex problems in various fields. Dive into the world of scientific computing! 🧪🐍
-```
