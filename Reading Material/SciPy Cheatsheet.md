@@ -1,5 +1,7 @@
 # SciPy Library in Python Cheat Sheet 🧪🐍
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the world of scientific computing with SciPy! This cheat sheet will guide you through essential features of the SciPy library and provide code examples for better understanding. Don't forget to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python insights and scientific exploration! 🌟
 
 ## Table of Contents 🗒️
