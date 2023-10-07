@@ -117,3 +117,5 @@ This cheat sheet provides an overview of NLTK's core features and code examples 
 📖 NLTK Documentation: [NLTK Documentation](https://www.nltk.org/)
 
 Feel free to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more data science and Python-related content. Enjoy your NLP journey with NLTK! 🐍📊📝
+
+Made with :heart: by **Fardeen Ahmad Khan**
