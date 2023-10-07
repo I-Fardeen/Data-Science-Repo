@@ -1,5 +1,7 @@
 # NLTK Library in Python Cheat Sheet 📚🐍
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the NLTK (Natural Language Toolkit) cheat sheet! NLTK is a powerful Python library for working with human language data. It provides easy-to-use interfaces to over 50 corpora and lexical resources. This cheat sheet will help you get started with NLTK and show you some code examples.
 
 ## Installation
