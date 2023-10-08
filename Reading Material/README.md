@@ -42,6 +42,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Polars Library Cheat Sheet](Polars%20Lib%20Cheatsheet.md)                                             | Using Polars Library in Python for manipulating tabular data. |
 | [PyMC Cheat Sheet](PyMC%20Library%20Cheatsheet.md)                                             | PyMC is a powerful tool for Bayesian data analysis and probabilistic modeling in Python. |
 | [PySpark Cheat Sheet](PySpark%20Cheatsheet.md)                                             | Getting started with Spark using Python's PySpark library |
+| [PyTorch Cheat Sheet](PyTorch%20Cheatsheet.md)                                             | Deep Learning basics with Python's PyTorch library. |
 | [Regression Techniques Cheat Sheet](Regression%20Techniques.md)                                             | Common Regression Techniques used in Data Science |
 | [Requests Library Cheat Sheet](Requests%20Cheatsheet.md)                                             | Handling HTTP requests using Python's requests library |
 | [RNNs using Python Cheat Sheet](RNNs%20using%20Python.md)                         | Introduction to Recurrent Neural Networks in Python. |
