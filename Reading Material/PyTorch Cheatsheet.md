@@ -1,5 +1,7 @@
 # PyTorch Library in Python Cheat Sheet 🚀🔥
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the PyTorch cheat sheet! PyTorch is an open-source deep learning platform that provides a seamless path from research prototyping to production deployment. Whether you're a beginner or an expert in deep learning, this cheat sheet will help you get started with PyTorch and includes some code examples to kick-start your deep learning journey.
 
 ## Installation
