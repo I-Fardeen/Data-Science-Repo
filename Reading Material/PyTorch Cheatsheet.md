@@ -9,7 +9,6 @@ You can install PyTorch using pip:
 ```python
 pip install torch torchvision torchaudio
 ```
-
 For GPU support (if you have a compatible GPU):
 
 ```python
