@@ -126,3 +126,5 @@ This cheat sheet provides an overview of PyTorch's core features and code exampl
 📖 PyTorch Documentation: [PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
 
 Feel free to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more data science and Python-related content. Enjoy your journey into the world of deep learning with PyTorch! 🚀📊🤖
+
+Made with :heart: by **Fardeen Ahmad Khan**
