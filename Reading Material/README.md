@@ -20,6 +20,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Dataframes using Polars Cheat Sheet](Dataframes%20using%20Polars.md)                     | Creating and Manipulating dataframes using Polars Library in Python. |
 | [DiPy Library Cheat Sheet](DiPy%20Library%20Cheatsheet.md)                     | This cheat sheet introduces the DiPy library in Python. A guide for brain imaging and connectivity analysis using Python. |
 | [Ensemble Techniques in Python Cheat Sheet](Ensemble%20Techniques%20using%20Python.md)                     | Theory and Implementation of Ensemble Techniques in Python|
+| [Gensim Library Cheat Sheet](Gensim%20Library%20Cheatsheet.md)                     | Gensim is a powerful library for NLP in Python. |
 | [Google Analytics using Python](Google%20Analytics%20using%20Python.md)                     | Connecting to Google Analytics and extracting insights using Python. |
 | [Hadoop using Python Cheat Sheet](Hadoop%20using%20Python.md)                                     | Setting up environment and getting started with Hadoop using Python |
 | [Matplotlib Cheat Sheet](Matplotlib%20Cheatsheet.md)                                     | A ready reckoner for matplotlib.pyplot equally beneficial for both beginners and experienced folks. |
