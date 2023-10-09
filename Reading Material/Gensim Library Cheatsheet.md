@@ -102,3 +102,5 @@ This cheat sheet provides a glimpse into Gensim's capabilities and code examples
 📖 Gensim Documentation: [Gensim Documentation](https://radimrehurek.com/gensim/)
 
 Feel free to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more data science and Python-related content. Enjoy your journey into the world of natural language processing with Gensim! 📊📝📖
+
+Made with :heart: by **Fardeen Ahmad Khan**
