@@ -1,4 +1,6 @@
- Flask in Python Cheat Sheet 🌐🐍
+# Flask in Python Cheat Sheet 🌐🐍
+
+Made with :heart: by **Fardeen Ahmad Khan**
 
 Welcome to the Flask cheat sheet! Flask is a lightweight and versatile Python web framework that makes it easy to build web applications. Whether you're new to web development or a seasoned developer, this cheat sheet will help you get started with Flask and includes code examples to kickstart your web projects.
 
