@@ -102,3 +102,5 @@ This cheat sheet provides a taste of Flask's capabilities and code examples to g
 📖 Flask Documentation: [Flask Documentation](https://flask.palletsprojects.com/)
 
 Feel free to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and web development content. Enjoy your journey with Flask! 🚀🌐📝
+
+Made with :heart: by **Fardeen Ahmad Khan**
