@@ -1,5 +1,7 @@
 # Django in Python Cheat Sheet 🌐🐍
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the Django cheat sheet! Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. Whether you're a beginner or an experienced developer, this cheat sheet will help you understand and use Django for web application development.
 
 ## Installation
