@@ -118,3 +118,5 @@ This cheat sheet provides a glimpse into Django's capabilities and code examples
 📖 Django Documentation: [Django Documentation](https://docs.djangoproject.com/)
 
 Feel free to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and web development content. Enjoy your journey with Django! 🚀🌐📝
+
+Made with :heart: by **Fardeen Ahmad Khan**
