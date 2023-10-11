@@ -19,6 +19,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Clustering Techniques using Python](Clustering%20Techniques.md)                     | Types of Clustering Techniques in Data Science and their Python Implementations. |
 | [Dataframes using Polars Cheat Sheet](Dataframes%20using%20Polars.md)                     | Creating and Manipulating dataframes using Polars Library in Python. |
 | [DiPy Library Cheat Sheet](DiPy%20Library%20Cheatsheet.md)                     | This cheat sheet introduces the DiPy library in Python. A guide for brain imaging and connectivity analysis using Python. |
+| [Django in Python](Django%20in%20Python.md)                     |  Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. |
 | [Ensemble Techniques in Python Cheat Sheet](Ensemble%20Techniques%20using%20Python.md)                     | Theory and Implementation of Ensemble Techniques in Python|
 | [Flask in Python Cheat Sheet](Flask%20in%20Python.md)                     | An introduction to the Flask framework in Python. |
 | [Gensim Library Cheat Sheet](Gensim%20Library%20Cheatsheet.md)                     | Gensim is a powerful library for NLP in Python. |
