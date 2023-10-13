@@ -1,5 +1,7 @@
 # FastAPI in Python Cheat Sheet 🚀🐍
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the FastAPI cheat sheet! FastAPI is a modern, fast, and highly productive web framework for building APIs with Python. Whether you're a beginner or an experienced developer, this cheat sheet will help you get started and explore its powerful features.
 
 ## Installation
@@ -104,3 +106,5 @@ FastAPI is designed for ease of use and high performance, making it an excellent
 📖 FastAPI Documentation: [FastAPI Documentation](https://fastapi.tiangolo.com/)
 
 Feel free to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and web development content. Enjoy your journey with FastAPI! 🚀🐍🌟
+
+Made with :heart: by **Fardeen Ahmad Khan**
