@@ -21,6 +21,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [DiPy Library Cheat Sheet](DiPy%20Library%20Cheatsheet.md)                     | This cheat sheet introduces the DiPy library in Python. A guide for brain imaging and connectivity analysis using Python. |
 | [Django in Python](Django%20in%20Python.md)                     |  Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. |
 | [Ensemble Techniques in Python Cheat Sheet](Ensemble%20Techniques%20using%20Python.md)                     | Theory and Implementation of Ensemble Techniques in Python|
+| [FastAPI in Python Cheat Sheet](FastAPI%20in%20Python.md)                     | FastAPI is a modern, fast, and highly productive web framework for building APIs with Python. |
 | [Flask in Python Cheat Sheet](Flask%20in%20Python.md)                     | An introduction to the Flask framework in Python. |
 | [Gensim Library Cheat Sheet](Gensim%20Library%20Cheatsheet.md)                     | Gensim is a powerful library for NLP in Python. |
 | [Google Analytics using Python](Google%20Analytics%20using%20Python.md)                     | Connecting to Google Analytics and extracting insights using Python. |
