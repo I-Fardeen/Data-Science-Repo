@@ -1,5 +1,7 @@
 # SQLAlchemy in Python Cheat Sheet 🐍🗄️
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the SQLAlchemy cheat sheet! SQLAlchemy is a popular and powerful Object Relational Mapper (ORM) for Python. Whether you're new to SQLAlchemy or looking to refresh your knowledge, this cheat sheet will guide you through its core concepts and provide code examples to get you started.
 
 ## Installation
