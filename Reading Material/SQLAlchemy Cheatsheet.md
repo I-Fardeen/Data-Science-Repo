@@ -109,3 +109,5 @@ SQLAlchemy provides a powerful and flexible way to work with databases in Python
 📖 SQLAlchemy Documentation: [SQLAlchemy Documentation](https://docs.sqlalchemy.org/)
 
 Feel free to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and database-related content. Happy coding! 🐍🗄️🌟
+
+Made with :heart: by **Fardeen Ahmad Khan**
