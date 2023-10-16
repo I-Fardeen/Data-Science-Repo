@@ -1,5 +1,7 @@
 # Yellowbrick in Python Cheat Sheet 🐍📊
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the Yellowbrick cheat sheet! Yellowbrick is a fantastic Python library for visualizing machine learning models. This cheat sheet will introduce you to the key concepts and provide code examples to help you visualize your models effectively.
 
 ## Installation
