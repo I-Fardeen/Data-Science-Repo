@@ -86,3 +86,5 @@ Yellowbrick is a powerful library for model visualization and selection in Pytho
 📖 Yellowbrick Documentation: [Yellowbrick Documentation](https://www.scikit-yb.org/en/latest/)
 
 Feel free to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and machine learning-related content. Happy modeling! 🐍📊🌟
+
+Made with :heart: by **Fardeen Ahmad Khan**
