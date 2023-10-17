@@ -43,6 +43,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Perceptron in Python](Perceptron%20in%20Python.md)                                             | Creating and training a Perceptron in Python and predicting values using the same. |
 | [Piplelines in Python](Pipelines%20in%20Python.md)                                             | An intro to Pipelines in Python and how to use them for Machine Learning. |
 | [Plotly and Dash Cheat Sheet](Plotly%20and%20Dash%20Cheatsheet.md)                                             | Working with Plotly and Dash in Python for visualization. |
+| [Plotnine Cheatsheet](Plotnine%20in%20Python.md)                                             | Plotnine is a Python data visualization library based on the Grammar of Graphics.|
 | [Polars Library Cheat Sheet](Polars%20Lib%20Cheatsheet.md)                                             | Using Polars Library in Python for manipulating tabular data. |
 | [PyMC Cheat Sheet](PyMC%20Library%20Cheatsheet.md)                                             | PyMC is a powerful tool for Bayesian data analysis and probabilistic modeling in Python. |
 | [PySpark Cheat Sheet](PySpark%20Cheatsheet.md)                                             | Getting started with Spark using Python's PySpark library |
