@@ -103,3 +103,5 @@ Plotnine is a versatile data visualization library that makes it easy to create 
 📖 Plotnine Documentation: [Plotnine Documentation](https://plotnine.readthedocs.io/en/stable/)
 
 Feel free to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and data visualization-related content. Happy plotting! 🐍📊🌟
+
+Made with :heart: by **Fardeen Ahmad Khan**
