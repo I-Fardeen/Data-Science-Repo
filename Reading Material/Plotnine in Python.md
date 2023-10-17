@@ -1,5 +1,7 @@
 # Plotnine in Python Cheat Sheet 🐍📊
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the Plotnine cheat sheet! Plotnine is a Python data visualization library based on the Grammar of Graphics. This cheat sheet will help you get started with creating beautiful and informative plots using Plotnine.
 
 ## Installation
