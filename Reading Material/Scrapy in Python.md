@@ -1,5 +1,7 @@
 # Scrapy in Python Cheat Sheet 🕷️🐍
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the Scrapy cheat sheet! Scrapy is a powerful web scraping framework for Python. With Scrapy, you can easily extract data from websites and save it for your data analysis or other projects. This cheat sheet will help you get started with web scraping using Scrapy.
 
 ## Installation
@@ -102,3 +104,5 @@ Scrapy is a versatile web scraping framework with extensive documentation and a 
 📖 Scrapy Documentation: [Scrapy Documentation](https://docs.scrapy.org/en/latest/index.html)
 
 Feel free to follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and web scraping-related content. Happy scraping! 🕷️🐍🌟
+
+Made with :heart: by **Fardeen Ahmad Khan**
