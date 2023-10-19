@@ -1,5 +1,7 @@
 # Surprise in Python Cheat Sheet 🎁🐍
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the Surprise cheat sheet! Surprise is a Python library for building and analyzing recommender systems. It makes it easy to work with recommendation algorithms and evaluate their performance. Let's dive into some essential concepts and code examples.
 
 ## Installation
