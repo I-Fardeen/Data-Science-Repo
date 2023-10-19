@@ -100,3 +100,5 @@ grid_search.fit(data)
 📖 Official Documentation: [Surprise Documentation](https://surprise.readthedocs.io/en/stable/index.html)
 
 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and data science-related content. Have fun building your recommender systems with Surprise! 🎁🐍🌟
+
+Made with :heart: by **Fardeen Ahmad Khan**
