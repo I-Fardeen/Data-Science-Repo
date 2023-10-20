@@ -1,5 +1,7 @@
 # Vaex in Python Cheat Sheet 🐍🚀
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the Vaex cheat sheet! Vaex is a Python library for lazy, out-of-core DataFrames. It's designed for fast, memory-efficient data manipulation and exploration. Let's explore some key concepts and code examples.
 
 ## Installation
@@ -78,3 +80,5 @@ predictor.fit(df_filtered)
 📖 Official Documentation: [Vaex Documentation](https://vaex.io/docs/index.html)
 
 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and data science-related content. Enjoy your journey with Vaex! 🐍🚀🌟
+
+Made with :heart: by **Fardeen Ahmad Khan**
