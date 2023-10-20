@@ -73,6 +73,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Tornado in Python Cheatsheet](Tornado%20in%20Python.md)                                     | Tornado is a Python web framework and asynchronous networking library that's well-suited for handling long-lived network connections. |
 | [Types of Data Science Problems](Types%20of%20Data%20Science%20Problems.md)                                     | Types of Data Science problems and how to tackle them with algorithms and techniques |
 | [Use Cases of Data Science](Use%20Cases%20of%20Data%20Science.md)                                     | Most common use cases of Data Science and how it's innovating the way we see the world. |
+| [Vaex Library in Python Cheatsheet](Vaex%20Library%20in%20Python.md)                                     | Vaex is a Python library for lazy, out-of-core DataFrames.  |
 | [Xarray Library in Python](Xarray%20Library%20in%20Python.md)                                     | Xarray simplifies complex data manipulation tasks and is a valuable tool for handling labeled, multi-dimensional data in Python. |
 | [Yellowbrick Library in Python](Yellowbrick%20in%20Python.md)                                     | Yellowbrick is a fantastic Python library for visualizing machine learning models |
 
