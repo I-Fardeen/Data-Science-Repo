@@ -1,5 +1,7 @@
 # PyMongo in Python Cheat Sheet 🐍🍃
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the PyMongo cheat sheet! PyMongo is the official Python driver for MongoDB. It allows you to interact with MongoDB databases seamlessly. Let's explore key concepts and code examples for PyMongo.
 
 ## Installation
@@ -91,3 +93,5 @@ collection.delete_one(query)
 📖 Official Documentation: [PyMongo Documentation](https://pymongo.readthedocs.io/en/stable/)
 
 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and data science-related content. Enjoy your journey with PyMongo! 🐍🍃🌟
+
+Made with :heart: by **Fardeen Ahmad Khan**
