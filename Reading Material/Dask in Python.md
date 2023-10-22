@@ -1,5 +1,7 @@
 # Dask in Python Cheat Sheet 🐍🚀
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the Dask cheat sheet! Dask is a flexible library for parallel computing in Python. It enables dynamic task scheduling, parallel computation, and working with larger-than-memory datasets. Let's dive into the key concepts and code examples for Dask.
 
 ## Installation
@@ -79,3 +81,5 @@ Dask supports different schedulers for task execution:
 📖 Official Documentation: [Dask Documentation](https://docs.dask.org/en/latest/)
 
 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and data science-related content. Enjoy exploring the world of parallel computing with Dask! 🐍🚀🌟
+
+Made with :heart: by **Fardeen Ahmad Khan**
