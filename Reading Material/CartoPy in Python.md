@@ -1,5 +1,7 @@
 # CartoPy in Python Cheat Sheet 🌍🗺️
 
+Made wtih :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the CartoPy cheat sheet! CartoPy is a Python library for cartographic projections and geospatial data visualization. It makes it easier to create maps, plot geospatial data, and apply various projections in Python. Let's explore the key concepts and code examples for CartoPy.
 
 ## Installation
@@ -63,3 +65,5 @@ ax = plt.axes(projection=ccrs.Orthographic(central_longitude=0, central_latitude
 📖 Official Documentation: [CartoPy Documentation](https://scitools.org.uk/cartopy/docs/latest/)
 
 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and geospatial data visualization content. Dive into the world of cartographic projections with CartoPy! 🌍🗺️🌟
+
+Made wtih :heart: by **Fardeen Ahmad Khan**
