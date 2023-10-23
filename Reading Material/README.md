@@ -16,6 +16,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Bokeh Cheatsheet](Bokeh%20Cheatsheet.md)                     | Web based Data Visualization using Bokeh in Python.             |
 | [BioPython Library Cheatsheet](BioPython%20Library%20Cheatsheet.md)                     | This cheat sheet introduces BioPython library in Python, It's a quick reference for bioinformatics and computational biology using Python.             |
 | [Branches of Data Science](Branches%20of%20Data%20Science.md)                     | Different Branches of Data Science and Types of Data Science applications |
+| [CartoPy Library Cheatsheet](CartoPy%20in%20Python.md)                     | Cartopy is a Python package designed for geospatial data processing in order to produce maps.|
 | [Clustering Techniques using Python](Clustering%20Techniques.md)                     | Types of Clustering Techniques in Data Science and their Python Implementations. |
 | [Dask in Python Cheatsheet](Dask%20in%20Python.md)                     | Dask is a flexible library for parallel computing in Python. |
 | [Dataframes using Polars Cheat Sheet](Dataframes%20using%20Polars.md)                     | Creating and Manipulating dataframes using Polars Library in Python. |
