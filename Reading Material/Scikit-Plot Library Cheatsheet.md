@@ -1,5 +1,7 @@
 # Scikit-Plot in Python Cheat Sheet 📊📈
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the Scikit-Plot cheat sheet! Scikit-Plot is a Python library that provides easy-to-use functions for visualizing machine learning models. It's designed to work seamlessly with scikit-learn models. Let's explore some essential concepts and code examples for Scikit-Plot.
 
 ## Installation
@@ -68,3 +70,5 @@ This visualization shows how well your classifier's predicted probabilities alig
 📖 Official Documentation: [Scikit-Plot Documentation](https://scikit-plot.readthedocs.io/)
 
 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and machine learning content. Scikit-Plot is a valuable addition to your machine learning toolkit! 📊📈🌟
+
+Made with :heart: by **Fardeen Ahmad Khan**
