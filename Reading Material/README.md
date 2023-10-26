@@ -31,6 +31,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Hadoop using Python Cheat Sheet](Hadoop%20using%20Python.md)                                     | Setting up environment and getting started with Hadoop using Python |
 | [Matplotlib Cheat Sheet](Matplotlib%20Cheatsheet.md)                                     | A ready reckoner for matplotlib.pyplot equally beneficial for both beginners and experienced folks. |
 | [Model Evaluation Metrics](Model%20Evaluation%20Metrics.md)                                 | Common Metrics used to Evaluate Models pertaining to different kinds of problems, Regression, Classification and Clustering |
+| [Modin Library Cheat Sheet](Modin%20in%20Python.md)                                 |  Modin is a library that accelerates Pandas data frame operations by optimizing the use of available CPU cores. |
 | [MySQL Commands Cheat Sheet](MySQL%20Cheatsheet.md)                                 | Commonly used commands to manipulate Databases in MySQL |
 | [MySQL using Python Cheat Sheet](MySQL%20using%20Python.md)                                 | Execute and manage MySQL queries in Python |
 | [Networking Commands Cheat Sheet](Networking%20Commands.md)                                 | Frequently used networking commands to troubleshoot networking errors or check network stats. |
