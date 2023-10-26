@@ -1,5 +1,7 @@
 # Modin in Python Cheat Sheet 🚀🐼
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the Modin cheat sheet! Modin is a library that accelerates Pandas data frame operations by optimizing the use of available CPU cores. This guide will introduce you to the basics of Modin with code examples.
 
 ## Installation
@@ -80,3 +82,5 @@ import pandas as pd
 📖 Official Documentation: [Modin Documentation](https://modin.readthedocs.io/en/latest/)
 
 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and data science content. Modin can significantly boost your data processing speed with minimal code changes! 🚀🐼🌟
+
+Made with :heart: by **Fardeen Ahmad Khan**
