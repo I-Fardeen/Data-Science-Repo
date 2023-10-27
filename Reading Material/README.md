@@ -62,6 +62,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Sci-Kit Plot Cheat Sheet](Scikit-Plot%20Library%20Cheatsheet.md)                                 | Scikit-Plot is a library for visualizing machine learning models. |
 | [SciPy Cheat Sheet](SciPy%20Cheatsheet.md)                                 | A ready reference for using SciPy library in Python. |
 | [Selenium Web Scraping Cheat Sheet](Selenium%20Web%20Scraping.md)                                 | A reference guide to learning web scraping using Selenium |
+| [Shapely Library Cheat Sheet](Shapely%20in%20Python.md)                                 | Shapely is a Python library used for geometric object manipulation and analysis. |
 | [SharePoint Library in Python](SharePoint%20Lib%20in%20Python.md)                                 | Setting up and working with SharePoint in Python. |
 | [Spacy using Python Cheat Sheet](Spacy%20using%20Python.md)                                 | Common uses of Spacy for Natural Language Processing (NLP) |
 | [SQL Alchemy Cheat Sheet](SQLAlchemy%20Cheatsheet.md)                                 | SQLAlchemy is a popular and powerful Object Relational Mapper (ORM) for Python. |
