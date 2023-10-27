@@ -1,5 +1,7 @@
 # Shapely in Python Cheat Sheet 🌐🐍
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the Shapely cheat sheet! Shapely is a Python library used for geometric object manipulation and analysis. It's a great tool for working with various geometric shapes and performing spatial operations. This guide will introduce you to the basics of Shapely with code examples.
 
 ## Installation
@@ -97,3 +99,5 @@ buffered_polygon = polygon.buffer(0.2)
 📖 Official Documentation: [Shapely Documentation](https://shapely.readthedocs.io/en/stable/manual.html)
 
 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and data science content. Shapely is a powerful library for working with geometric objects in Python! 🌐🐍🌟
+
+Made with :heart: by **Fardeen Ahmad Khan**
