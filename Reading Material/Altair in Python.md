@@ -1,5 +1,7 @@
 # Altair in Python Cheat Sheet 📊🐍
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the Altair cheat sheet! Altair is a Python library for declarative data visualization. It's built on top of Vega and Vega-Lite, providing an elegant and concise way to create interactive visualizations. Let's explore Altair with code examples.
 
 ## Installation
@@ -72,3 +74,5 @@ chart
 📖 Official Documentation: [Altair Documentation](https://altair-viz.github.io/)
 
 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and data science content. Altair is a fantastic library for creating beautiful and interactive visualizations in Python! 📊🐍🌟
+
+Made with :heart: by **Fardeen Ahmad Khan**
