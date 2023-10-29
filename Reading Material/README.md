@@ -30,6 +30,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Gensim Library Cheat Sheet](Gensim%20Library%20Cheatsheet.md)                     | Gensim is a powerful library for NLP in Python. |
 | [Google Analytics using Python](Google%20Analytics%20using%20Python.md)                     | Connecting to Google Analytics and extracting insights using Python. |
 | [Hadoop using Python Cheat Sheet](Hadoop%20using%20Python.md)                                     | Setting up environment and getting started with Hadoop using Python |
+| [HyperOpt in Python Cheat Sheet](HyperOpt%20in%20Python.md)                                     | HyperOpt is a Python library for hyperparameter optimization. |
 | [Matplotlib Cheat Sheet](Matplotlib%20Cheatsheet.md)                                     | A ready reckoner for matplotlib.pyplot equally beneficial for both beginners and experienced folks. |
 | [Model Evaluation Metrics](Model%20Evaluation%20Metrics.md)                                 | Common Metrics used to Evaluate Models pertaining to different kinds of problems, Regression, Classification and Clustering |
 | [Modin Library Cheat Sheet](Modin%20in%20Python.md)                                 |  Modin is a library that accelerates Pandas data frame operations by optimizing the use of available CPU cores. |
