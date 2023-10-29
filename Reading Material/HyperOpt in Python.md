@@ -1,5 +1,7 @@
 # HyperOpt in Python Cheat Sheet 🧯🐍
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the HyperOpt cheat sheet! HyperOpt is a Python library for hyperparameter optimization. It provides an efficient and scalable way to search for the best hyperparameters for your machine learning models. Let's dive into HyperOpt with code examples.
 
 ## Installation
@@ -63,3 +65,5 @@ HyperOpt provides advanced features like saving and loading trials and parallel 
 📖 Official Documentation: [HyperOpt Documentation](https://github.com/hyperopt/hyperopt)
 
 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and data science content. HyperOpt is a powerful tool for optimizing hyperparameters and enhancing your machine learning models! 🧯🐍🚀
+
+Made with :heart: by **Fardeen Ahmad Khan**
