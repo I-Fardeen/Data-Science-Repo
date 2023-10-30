@@ -1,5 +1,7 @@
 # Arrow in Python Cheat Sheet 🏹🐍
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the Arrow cheat sheet! Arrow is a Python library for working with dates and times. It provides an elegant and efficient way to handle time-related operations. Let's explore Arrow with code examples.
 
 ## Installation
@@ -74,3 +76,5 @@ Arrow offers many advanced features, including humanized representations, parsin
 📖 Official Documentation: [Arrow Documentation](https://arrow.readthedocs.io/en/latest/)
 
 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and data science content. Arrow simplifies handling dates and times in Python, making your code more efficient! 🏹🐍🕒
+
+Made with :heart: by **Fardeen Ahmad Khan**
