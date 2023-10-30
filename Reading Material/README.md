@@ -10,6 +10,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [50 Most Common Words Data Scientists should know](50%20words%20for%20Data%20Scientists.md) | 50 everyday words in the life of a Data Scientist.           |
 | [Altair Library Cheat Sheet](Altair%20in%20Python.md)                     | Altair is a Python library for declarative data visualization.             |
 | [ANOVA in Python Cheat Sheet](ANOVA%20using%20Python.md)                     | ANOVA: One way, Two way and Repeated Measures ANOVA with theory and implementation in Python.             |
+| [Arrow Library Cheat Sheet](Arrow%20in%20Python.md)                     | Arrow is a Python library for working with dates and times. It provides an elegant and efficient way to handle time-related operations. |
 | [AstroPy Library Cheat Sheet](AstroPy%20Library%20Cheatsheet.md)                     | This cheat sheet introduces the AstroPy library in Python for astronomy and astrophysics using Python. |
 | [Bagging and Boosting Cheat Sheet](Bagging%20and%20Boosting.md)                     | Bagging and Boosting ML Algorithms with Python implementation.             |
 | [Beautiful Soup Cheat Sheet](BeautifulSoup%20Cheatsheet.md)                     | Getting started with BeautifulSoup in Python.             |
