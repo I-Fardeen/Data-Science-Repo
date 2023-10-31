@@ -1,5 +1,7 @@
 # Sweetviz in Python Cheat Sheet 🍬🐍
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the Sweetviz cheat sheet! Sweetviz is a Python library that helps you visualize and compare dataframes. It's a fantastic tool for exploratory data analysis (EDA) and data comparison. Let's explore Sweetviz with some code examples.
 
 ## Installation
@@ -53,3 +55,5 @@ Sweetviz offers advanced customization options for your reports, including filte
 📖 Official Documentation: [Sweetviz Documentation](https://github.com/fbdesignpro/sweetviz)
 
 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and data science content. Sweetviz simplifies data exploration and comparison, making your EDA process deliciously easy! 🍬🐍📊
+
+Made with :heart: by **Fardeen Ahmad Khan**
