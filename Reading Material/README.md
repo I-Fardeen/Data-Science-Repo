@@ -73,6 +73,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Stats Library Cheat Sheet](Stats%20Lib%20Cheatsheet.md)                                 | Stats operations in Python using SciPy and Statistics. |
 | [SunPy Library Cheat Sheet](SunPy%20Library%20Cheatsheet.md)                                 | A quick reference for exploring solar physics and analyzing solar data using SunPy. |
 | [Surprise Library Cheatsheet](Surprise%20in%20Python.md)           |  Surprise is a Python library for building and analyzing recommender systems. |
+| [Sweetviz Library Cheatsheet](Sweetviz%20in%20Python.md)           | Sweetviz is a Python library that helps you visualize and compare dataframes. |
 | [SymPy Library Cheatsheet](SymPy%20Cheatsheet.md)           | Ready reckoner for SymPy a library that lets us perform symbolic math operations in Python. |
 | [TensorFlow Cheatsheet](TensorFlow%20Cheatsheet.md)           | A quick reference material for building machine learning models in TensorFlow |
 | [Time Series Analysis Cheatsheet](Time%20Series%20Analysis.md)           | A quick guide to analyzing time series data using Python |
