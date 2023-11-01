@@ -62,6 +62,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Roadmap to Becoming a Data Scientist](Data%20Science%20Roadmap.md)                         | A roadmap outlining the steps to become an adept Data Scientist. |
 | [Sci-Kit Image Cheat Sheet](Scikit%20Image%20Cheatsheet.md)                                 | A refernce sheet for Image Processing in Python using Sci-Kit Image. |
 | [Sci-Kit Learn Cheat Sheet](Scikit%20Learn%20Cheatsheet.md)                                 | A sheet outlining basic operations and tools of sklearn which are used frequently. |
+| [Sci-Kit Learn Extra Cheat Sheet](Scikit%20Learn%20Extra%20Cheat%20Sheet.md)                                 |  Scikit-learn-extra is a Python library that extends the capabilities of the popular Scikit-learn library. |
 | [Sci-Kit Plot Cheat Sheet](Scikit-Plot%20Library%20Cheatsheet.md)                                 | Scikit-Plot is a library for visualizing machine learning models. |
 | [SciPy Cheat Sheet](SciPy%20Cheatsheet.md)                                 | A ready reference for using SciPy library in Python. |
 | [Selenium Web Scraping Cheat Sheet](Selenium%20Web%20Scraping.md)                                 | A reference guide to learning web scraping using Selenium |
