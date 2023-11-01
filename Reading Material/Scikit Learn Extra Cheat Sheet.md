@@ -1,5 +1,7 @@
 # Scikit-learn-extra in Python Cheat Sheet 🧬🐍
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the Scikit-learn-extra cheat sheet! Scikit-learn-extra is a Python library that extends the capabilities of the popular Scikit-learn library. It provides additional tools and algorithms for machine learning. Let's explore Scikit-learn-extra with some code examples.
 
 ## Installation
@@ -64,3 +66,5 @@ for train_index, test_index in tscv.split(X):
 📖 Official Documentation: [Scikit-learn-extra Documentation](https://scikit-learn-extra.readthedocs.io/en/latest/index.html)
 
 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and data science content. Scikit-learn-extra adds extra power to your machine learning toolbox! 🧬🐍🔍📊
+
+Made with :heart: by **Fardeen Ahmad Khan**
