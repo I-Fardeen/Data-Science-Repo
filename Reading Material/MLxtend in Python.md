@@ -1,5 +1,7 @@
 # MLxtend in Python Cheat Sheet 📈🐍
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the Mlxtend cheat sheet! Mlxtend (machine learning extensions) is a Python library that provides helpful tools for machine learning and data analysis. Let's explore Mlxtend with some code examples.
 
 ## Installation
@@ -71,3 +73,5 @@ rules = association_rules(frequent_item_sets, metric="confidence", min_threshold
 📖 Official Documentation: [Mlxtend Documentation](http://rasbt.github.io/mlxtend/)
 
 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and data science content. Mlxtend is your companion for machine learning and data analysis! 📈🐍🔍📊
+
+Made with :heart: by **Fardeen Ahmad Khan**
