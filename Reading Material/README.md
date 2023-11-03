@@ -53,6 +53,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Plotly and Dash Cheat Sheet](Plotly%20and%20Dash%20Cheatsheet.md)                                             | Working with Plotly and Dash in Python for visualization. |
 | [Plotnine Cheatsheet](Plotnine%20in%20Python.md)                                             | Plotnine is a Python data visualization library based on the Grammar of Graphics.|
 | [Polars Library Cheat Sheet](Polars%20Lib%20Cheatsheet.md)                                             | Using Polars Library in Python for manipulating tabular data. |
+| [Prophet Library Cheat Sheet](Prophet%20in%20Python.md)                                             | Prophet is an open-source forecasting tool developed by Facebook. |
 | [PyMC Cheat Sheet](PyMC%20Library%20Cheatsheet.md)                                             | PyMC is a powerful tool for Bayesian data analysis and probabilistic modeling in Python. |
 | [PyMongo Cheat Sheet](PyMongo%20Library%20Cheatsheet.md)                                             | PyMongo is the official Python driver for MongoDB. |
 | [PySpark Cheat Sheet](PySpark%20Cheatsheet.md)                                             | Getting started with Spark using Python's PySpark library |
