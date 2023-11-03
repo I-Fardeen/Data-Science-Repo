@@ -1,5 +1,7 @@
 # Prophet in Python Cheat Sheet 📈🔮
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the Prophet cheat sheet! Prophet is an open-source forecasting tool developed by Facebook. It is designed for forecasting time series data, making it a valuable tool for analysts and data scientists. Let's dive into Prophet with some code examples.
 
 ## Installation
@@ -67,3 +69,5 @@ model.add_seasonality(
 - 📚 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and data science content.
 
 Prophet simplifies time series forecasting, making it accessible for everyone. 📈🔮✨
+
+Made with :heart: by **Fardeen Ahmad Khan**
