@@ -29,6 +29,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [FastAPI in Python Cheat Sheet](FastAPI%20in%20Python.md)                     | FastAPI is a modern, fast, and highly productive web framework for building APIs with Python. |
 | [Flask in Python Cheat Sheet](Flask%20in%20Python.md)                     | An introduction to the Flask framework in Python. |
 | [Gensim Library Cheat Sheet](Gensim%20Library%20Cheatsheet.md)                     | Gensim is a powerful library for NLP in Python. |
+| [GeoPandas Library Cheat Sheet](GeoPandas%20in%20Python.md)                     | GeoPandas is an open-source Python library that simplifies working with geospatial data. |
 | [Google Analytics using Python](Google%20Analytics%20using%20Python.md)                     | Connecting to Google Analytics and extracting insights using Python. |
 | [Hadoop using Python Cheat Sheet](Hadoop%20using%20Python.md)                                     | Setting up environment and getting started with Hadoop using Python |
 | [HyperOpt in Python Cheat Sheet](HyperOpt%20in%20Python.md)                                     | HyperOpt is a Python library for hyperparameter optimization. |
