@@ -1,5 +1,7 @@
 # GeoPandas Cheat Sheet 🗺️🐍
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the GeoPandas cheat sheet! GeoPandas is an open-source Python library that simplifies working with geospatial data. Whether you're a GIS professional or a data scientist, GeoPandas has you covered. Let's explore GeoPandas with some code examples!
 
 ## Installation
@@ -113,3 +115,5 @@ GeoPandas is compatible with interactive mapping libraries like Folium and Bokeh
 - 📚 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and data science content.
 
 GeoPandas empowers you to work with geospatial data effortlessly. Explore the world through data! 🌍🐍🗺️
+
+Made with :heart: by **Fardeen Ahmad Khan**
