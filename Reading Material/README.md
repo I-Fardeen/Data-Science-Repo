@@ -32,6 +32,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [GeoPandas Library Cheat Sheet](GeoPandas%20in%20Python.md)                     | GeoPandas is an open-source Python library that simplifies working with geospatial data. |
 | [Google Analytics using Python](Google%20Analytics%20using%20Python.md)                     | Connecting to Google Analytics and extracting insights using Python. |
 | [Hadoop using Python Cheat Sheet](Hadoop%20using%20Python.md)                                     | Setting up environment and getting started with Hadoop using Python |
+| [HoloViews in Python Cheat Sheet](HoloViews%20in%20Python.md)                                     | HoloViews is a powerful Python library for interactive data visualization. |
 | [HyperOpt in Python Cheat Sheet](HyperOpt%20in%20Python.md)                                     | HyperOpt is a Python library for hyperparameter optimization. |
 | [Matplotlib Cheat Sheet](Matplotlib%20Cheatsheet.md)                                     | A ready reckoner for matplotlib.pyplot equally beneficial for both beginners and experienced folks. |
 | [MLxtend Library in Python](MLxtend%20in%20Python.md)                                     | Mlxtend (machine learning extensions) is a Python library that provides helpful tools for machine learning and data analysis. |
