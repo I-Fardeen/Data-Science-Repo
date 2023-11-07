@@ -1,100 +1,129 @@
-# Optuna Cheat Sheet 🚀🐍
+# Orange Cheat Sheet 🍊🐍
 
 Made with :heart: by **Fardeen Ahmad Khan**
 
-Welcome to the Optuna cheat sheet! Optuna is an open-source Python library for optimizing machine learning model hyperparameters. It's perfect for automating the process of finding the best configurations. Let's dive into Optuna with some code examples!
+Welcome to the Orange cheat sheet! Orange is a versatile Python library that simplifies machine learning and data visualization. It's a powerful tool for data exploration and predictive modeling. Let's explore Orange with some code examples!
 
 ## Installation
 
-You can install Optuna using pip:
+You can install Orange using pip:
 
 ```bash
-pip install optuna
+pip install orange3
 ```
 
-## Importing Optuna
+## Importing Orange
 
-Import Optuna like this:
+Import Orange like this:
 
 ```python
-import optuna
+import Orange
 ```
 
 ## Basic Usage
 
-### 1. Define the Objective Function
+### 1. Loading Data
 
-Create your objective function that returns the value you want to optimize. This can be anything, such as the accuracy of a model.
+Load your dataset (CSV, Excel, or other formats) using Orange:
 
 ```python
-def objective(trial):
-    # Define hyperparameters to optimize
-    learning_rate = trial.suggest_float('learning_rate', 1e-5, 1e-1, log=True)
-    n_estimators = trial.suggest_int('n_estimators', 100, 1000, step=100)
-
-    # Use the hyperparameters in your model and return a score to optimize
-    score = train_and_evaluate_model(learning_rate, n_estimators)
-    return score
+data = Orange.data.Table('your_dataset.csv')
 ```
 
-### 2. Create a Study
+### 2. Data Exploration
 
-Create a study object and optimize your objective function:
+Perform basic data exploration:
 
 ```python
-study = optuna.create_study(direction='maximize')  # 'maximize' for accuracy, 'minimize' for loss
-study.optimize(objective, n_trials=100)
+data.domain
+len(data)
+data[0]
 ```
 
-### 3. Get the Best Parameters
+### 3. Data Visualization
 
-After optimization, retrieve the best parameters:
+Visualize your data using Orange's data visualization tools:
 
 ```python
-best_params = study.best_params
+box_plot = Orange.widgets.visualize.PyBoxPlot(data)
+box_plot.show()
+```
+
+## Data Preprocessing
+
+### 4. Data Preprocessing
+
+Orange provides tools for data preprocessing, including normalization and feature selection:
+
+```python
+from Orange.preprocess import Normalize
+normalized_data = Normalize()(data)
+```
+
+### 5. Feature Selection
+
+Select the most relevant features for your analysis:
+
+```python
+from Orange.preprocess import SelectBestFeatures
+selected_data = SelectBestFeatures()(data)
+```
+
+## Building Models
+
+### 6. Model Building
+
+Build machine learning models with Orange:
+
+```python
+from Orange.classification import TreeLearner
+
+tree_classifier = TreeLearner()
+tree_classifier = tree_classifier(data)
+```
+
+### 7. Model Evaluation
+
+Evaluate model performance with Orange's evaluation tools:
+
+```python
+from Orange.evaluation import CrossValidation
+results = CrossValidation(data, [tree_classifier])
 ```
 
 ## Advanced Usage
 
-### 4. Pruning Unpromising Trials
+### 8. Data Mining
 
-You can stop unpromising trials early to save time:
+Use Orange for more advanced data mining tasks like clustering and association rule mining:
 
 ```python
-def objective(trial):
-    # ...
-    for step in range(n_steps):
-        # ...
-        if trial.should_prune():
-            raise optuna.TrialPruned()
+from Orange.clustering import hierarchical
+
+clusterer = hierarchical.HierarchicalClustering()
+hierarchical_clustering = clusterer(data)
 ```
 
-### 5. Storage Options
+### 9. Machine Learning Pipelines
 
-Optuna supports different storage backends like SQLite or MySQL for saving optimization results:
-
-```python
-study = optuna.create_study(direction='maximize', storage='sqlite:///example.db')
-```
-
-## Visualization
-
-### 6. Visualize Optimization History
-
-Visualize the optimization process:
+Create machine learning pipelines with Orange:
 
 ```python
-import optuna.visualization as ov
+from Orange.preprocess import AddClassifier
 
-ov.plot_optimization_history(study)
+learner = Orange.classification.SVMLearner()
+learner = learner(data)
+
+pipeline = learner | AddClassifier(TreeLearner())
+pipeline = pipeline(data)
 ```
 
 ## Resources
 
-- 📖 Official Documentation: [Optuna Documentation](https://optuna.readthedocs.io/en/stable/index.html)
-- 📦 PyPI Package: [Optuna on PyPI](https://pypi.org/project/optuna/)
+- 📖 Official Documentation: [Orange Documentation](https://orange.biolab.si/documentation/)
+- 📦 PyPI Package: [Orange on PyPI](https://pypi.org/project/orange3/)
 - 📚 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and data science content.
 
-Optuna is your key to efficient hyperparameter optimization. Start optimizing like a pro! 🚀🔍📈🐍
+Orange is a powerful tool for data analysis and machine learning. Start exploring and analyzing your data with ease! 🍊🐍📊🤖
 
 Made with :heart: by **Fardeen Ahmad Khan**
