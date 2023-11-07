@@ -120,7 +120,7 @@ pipeline = pipeline(data)
 
 ## Resources
 
-- 📖 Official Documentation: [Orange Documentation](https://orange.biolab.si/documentation/)
+- 📖 Official Documentation: [Orange Documentation](https://orangedatamining.com/docs/)
 - 📦 PyPI Package: [Orange on PyPI](https://pypi.org/project/orange3/)
 - 📚 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and data science content.
 
