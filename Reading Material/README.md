@@ -49,6 +49,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Numpy Cheat Sheet](Numpy%20Cheatsheet.md)                                               | A cheat sheet showcasing essential functions and operations provided by Numpy, a fundamental library for numerical computations. |
 | [OpenCV Library in Python](OpenCV%20Library%20in%20Python.md)                                             | Getting started with OpenCV for image processing in Python. |
 | [Optuna Library in Python](Optuna%20in%20Python.md)                                             | Optuna is an open-source library for optimizing ML model hyperparameters. |
+| [Orange Library in Python](Orange%20in%20Python.md)                                             | Orange is a Python library and a powerful tool for data exploration and predictive modeling. |
 | [OS Library in Python Cheat Sheet](OS%20Lib%20in%20Python%20Cheatsheet.md)                                             | A beginner's guide to OS library in Python. |
 | [Pandas Cheat Sheet](Pandas%20Cheatsheet.md)                                             | A quick reference guide for using Pandas, a popular data manipulation library in Python. |
 | [Perceptron in Python](Perceptron%20in%20Python.md)                                             | Creating and training a Perceptron in Python and predicting values using the same. |
