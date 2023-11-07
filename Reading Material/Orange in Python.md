@@ -1,5 +1,7 @@
 # Optuna Cheat Sheet 🚀🐍
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the Optuna cheat sheet! Optuna is an open-source Python library for optimizing machine learning model hyperparameters. It's perfect for automating the process of finding the best configurations. Let's dive into Optuna with some code examples!
 
 ## Installation
@@ -94,3 +96,5 @@ ov.plot_optimization_history(study)
 - 📚 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and data science content.
 
 Optuna is your key to efficient hyperparameter optimization. Start optimizing like a pro! 🚀🔍📈🐍
+
+Made with :heart: by **Fardeen Ahmad Khan**
