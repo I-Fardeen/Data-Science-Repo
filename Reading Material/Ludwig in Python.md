@@ -1,5 +1,7 @@
 # Ludwig Cheat Sheet 📝🔥
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the Ludwig cheat sheet! Ludwig is an open-source Python framework that allows you to train and test deep learning models without writing code. It's incredibly versatile and easy to use. Let's dive into Ludwig with some code examples!
 
 ## Installation
@@ -94,3 +96,5 @@ You can extend Ludwig's functionality with custom data types, encoders, and prep
 - 📚 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and data science content.
 
 Ludwig simplifies deep learning, allowing you to focus on your data and tasks rather than writing code. Start training models quickly and efficiently with Ludwig! 📝🔥🤖🚀
+
+Made with :heart: by **Fardeen Ahmad Khan**
