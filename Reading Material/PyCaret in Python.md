@@ -1,5 +1,7 @@
 # PyCaret Cheat Sheet 📝🚀
 
+Made with :heart: by Fardeen Ahmad Khan
+
 Welcome to the PyCaret cheat sheet! PyCaret is an open-source Python library that automates machine learning workflows, making it easier for you to train, evaluate, and deploy machine learning models. Let's explore PyCaret with some code examples!
 
 ## Installation
@@ -93,3 +95,5 @@ anom_model = create_model('iforest', fraction=0.1)
 - 📚 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and data science content.
 
 PyCaret simplifies the machine learning process, making it accessible for everyone. Start automating your machine learning workflows with PyCaret! 📝🚀🤖🔥
+
+Made with :heart: by Fardeen Ahmad Khan
