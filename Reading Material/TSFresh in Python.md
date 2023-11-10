@@ -1,5 +1,7 @@
 # TSFresh Cheat Sheet 📈📊
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the TSFresh cheat sheet! TSFresh is a powerful Python library for automatic time series feature extraction. It's a valuable tool for engineers, data scientists, and researchers working with time series data. Let's explore TSFresh with some code examples!
 
 ## Installation
@@ -95,3 +97,5 @@ id, time, value
 - 📚 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and data science content.
 
 TSFresh is a fantastic tool for feature extraction from time series data. Start utilizing its power in your time series analysis! 📈📊🧐🔥
+
+Made with :heart: by **Fardeen Ahmad Khan**
