@@ -1,5 +1,7 @@
 # DataShader Cheat Sheet 🌐📊
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the DataShader cheat sheet! DataShader is a Python library for visualizing large datasets in real-time. It's a powerful tool for creating interactive, high-performance visualizations. Let's dive into DataShader with some code examples!
 
 ## Installation
@@ -97,3 +99,5 @@ cvs = ds.Canvas(plot_width=800, plot_height=800)
 - 📚 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and data science content.
 
 DataShader is your go-to library for handling large datasets and creating stunning visualizations. Explore its capabilities and enhance your data visualization experience! 🌐📊🚀
+
+Made with :heart: by **Fardeen Ahmad Khan**
