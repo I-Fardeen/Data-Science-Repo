@@ -22,6 +22,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Clustering Techniques using Python](Clustering%20Techniques.md)                     | Types of Clustering Techniques in Data Science and their Python Implementations. |
 | [Dask in Python Cheatsheet](Dask%20in%20Python.md)                     | Dask is a flexible library for parallel computing in Python. |
 | [Dataframes using Polars Cheat Sheet](Dataframes%20using%20Polars.md)                     | Creating and Manipulating dataframes using Polars Library in Python. |
+| [DataShaders Cheat Sheet](DataShader%20in%20Python.md)                     | DataShader is a Python library for visualizing large datasets in real-time. |
 | [DiPy Library Cheat Sheet](DiPy%20Library%20Cheatsheet.md)                     | This cheat sheet introduces the DiPy library in Python. A guide for brain imaging and connectivity analysis using Python. |
 | [Django in Python](Django%20in%20Python.md)                     |  Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. |
 | [Eli5 in Python Cheat Sheet](Eli5%20Library%20in%20Python.md)                     | ELI5 is a Python library which allows to visualize and debug  Machine Learning models. |
