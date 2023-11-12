@@ -1,5 +1,7 @@
 # AutoKeras Cheat Sheet 🤖📊
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the AutoKeras cheat sheet! AutoKeras is a powerful Python library for automated machine learning. It simplifies the process of building machine learning models by automating tasks like architecture search and hyperparameter tuning. Let's get started with some code examples!
 
 ## Installation
@@ -93,3 +95,5 @@ tuner.search(x_train, y_train, epochs=10)
 - 📚 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and machine learning content.
 
 AutoKeras empowers you to build machine learning models effortlessly. Explore its capabilities, automate your workflow, and enhance your machine learning journey! 🤖📊🚀
+
+Made with :heart: by **Fardeen Ahmad Khan**
