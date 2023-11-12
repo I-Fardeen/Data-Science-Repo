@@ -12,6 +12,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [ANOVA in Python Cheat Sheet](ANOVA%20using%20Python.md)                     | ANOVA: One way, Two way and Repeated Measures ANOVA with theory and implementation in Python.             |
 | [Arrow Library Cheat Sheet](Arrow%20in%20Python.md)                     | Arrow is a Python library for working with dates and times. It provides an elegant and efficient way to handle time-related operations. |
 | [AstroPy Library Cheat Sheet](AstroPy%20Library%20Cheatsheet.md)                     | This cheat sheet introduces the AstroPy library in Python for astronomy and astrophysics using Python. |
+| [AutoKeras Library Cheat Sheet](AutoKeras%20in%20Python.md)                     |  AutoKeras is a powerful Python library for automated machine learning. |
 | [Bagging and Boosting Cheat Sheet](Bagging%20and%20Boosting.md)                     | Bagging and Boosting ML Algorithms with Python implementation.             |
 | [Beautiful Soup Cheat Sheet](BeautifulSoup%20Cheatsheet.md)                     | Getting started with BeautifulSoup in Python.             |
 | [Best Websites for Programmers](Best%20Websites%20for%20Programmers.md)                     | 10 Essential websites every programmer must know.             |
