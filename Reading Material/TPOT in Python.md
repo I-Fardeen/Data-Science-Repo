@@ -1,5 +1,7 @@
 # TPOT Cheat Sheet 🧬📊
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the TPOT cheat sheet! TPOT is an automated machine learning library in Python that helps you optimize machine learning pipelines. It efficiently explores a wide range of models and hyperparameters to find the best combination for your dataset. Let's dive into the essentials with some code examples!
 
 ## Installation
@@ -93,3 +95,5 @@ with_preprocessing.fit(x_train, y_train)
 - 📚 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and machine learning content.
 
 TPOT simplifies the process of optimizing your machine learning pipelines. Dive into its features, streamline your workflow, and enjoy automated model optimization! 🧬📊🚀
+
+Made with :heart: by **Fardeen Ahmad Khan**
