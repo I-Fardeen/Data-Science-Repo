@@ -38,6 +38,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [HyperOpt in Python Cheat Sheet](HyperOpt%20in%20Python.md)                                     | HyperOpt is a Python library for hyperparameter optimization. |
 | [Ludwig Cheat Sheet](Ludwig%20in%20Python.md)                                     | Ludwig is a Python framework to train and test deep learning models without writing code. |
 | [Matplotlib Cheat Sheet](Matplotlib%20Cheatsheet.md)                                     | A ready reckoner for matplotlib.pyplot equally beneficial for both beginners and experienced folks. |
+| [MLFlow Library in Python](MLFlow%20in%20Python.md)                                     | MLFlow is an open-source platform for managing the end-to-end machine learning lifecycle. |
 | [MLxtend Library in Python](MLxtend%20in%20Python.md)                                     | Mlxtend (machine learning extensions) is a Python library that provides helpful tools for machine learning and data analysis. |
 | [Model Evaluation Metrics](Model%20Evaluation%20Metrics.md)                                 | Common Metrics used to Evaluate Models pertaining to different kinds of problems, Regression, Classification and Clustering |
 | [Modin Library Cheat Sheet](Modin%20in%20Python.md)                                 |  Modin is a library that accelerates Pandas data frame operations by optimizing the use of available CPU cores. |
