@@ -1,5 +1,7 @@
 # MLFlow Cheat Sheet 🚀📊
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the MLFlow cheat sheet! MLFlow is an open-source platform for managing the end-to-end machine learning lifecycle. It helps you track experiments, package code into reproducible runs, and share/publish models across different tools.
 
 ## Installation
@@ -98,3 +100,5 @@ mlflow models serve -m model_path
 - 📚 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and machine learning content.
 
 MLFlow provides an organized and efficient way to manage your machine learning projects. Track, reproduce, and deploy models seamlessly with MLFlow! 🚀📊✨
+
+Made with :heart: by **Fardeen Ahmad Khan**
