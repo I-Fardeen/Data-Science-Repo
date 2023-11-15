@@ -1,5 +1,7 @@
 # RAPIDS Cheat Sheet 🚀📊
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the RAPIDS cheat sheet! RAPIDS is an open-source suite of software libraries and frameworks that enables end-to-end data science and analytics acceleration on GPUs. It is designed to be compatible with popular data science libraries and provides a seamless experience for GPU-accelerated workflows.
 
 ## Installation
@@ -111,3 +113,5 @@ result = bc.sql('SELECT * FROM your_table WHERE condition')
 📚 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and GPU-accelerated data science content.
 
 RAPIDS accelerates your data science workflows on GPUs, providing exceptional performance for tasks ranging from data preprocessing to machine learning. Explore the power of RAPIDS! 🚀📊✨
+
+Made with :heart: by **Fardeen Ahmad Khan**
