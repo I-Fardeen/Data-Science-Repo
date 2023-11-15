@@ -67,6 +67,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [PyMongo Cheat Sheet](PyMongo%20Library%20Cheatsheet.md)                                             | PyMongo is the official Python driver for MongoDB. |
 | [PySpark Cheat Sheet](PySpark%20Cheatsheet.md)                                             | Getting started with Spark using Python's PySpark library |
 | [PyTorch Cheat Sheet](PyTorch%20Cheatsheet.md)                                             | Deep Learning basics with Python's PyTorch library. |
+| [RAPIDS in Python Cheat Sheet](RAPIDS%20in%20Python.md)                                             | RAPIDS is a suite of libraries and frameworks that enables data science and analytics acceleration on GPUs. |
 | [Regression Techniques Cheat Sheet](Regression%20Techniques.md)                                             | Common Regression Techniques used in Data Science |
 | [Requests Library Cheat Sheet](Requests%20Cheatsheet.md)                                             | Handling HTTP requests using Python's requests library |
 | [RNNs using Python Cheat Sheet](RNNs%20using%20Python.md)                         | Introduction to Recurrent Neural Networks in Python. |
