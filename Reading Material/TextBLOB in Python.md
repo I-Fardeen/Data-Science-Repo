@@ -1,5 +1,7 @@
 # TextBlob Cheat Sheet 📝🤖
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the TextBlob cheat sheet! TextBlob is a powerful Python library for processing textual data. It provides simple API calls for common natural language processing (NLP) tasks, making it an excellent tool for sentiment analysis, part-of-speech tagging, noun phrase extraction, and more.
 
 ## Installation
@@ -117,3 +119,5 @@ definition = Word("python").definitions
 📚 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and NLP content.
 
 TextBlob simplifies natural language processing in Python, making it accessible for various tasks. Explore the versatility of TextBlob for your text analysis needs! 📝🤖✨
+
+Made with :heart: by **Fardeen Ahmad Khan**
