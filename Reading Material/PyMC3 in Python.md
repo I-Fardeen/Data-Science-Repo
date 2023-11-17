@@ -1,5 +1,7 @@
 # PyMC3 Cheat Sheet 📝🔍
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the PyMC3 cheat sheet! PyMC3 is a powerful probabilistic programming library for Bayesian data analysis. It allows you to define probabilistic models using a high-level syntax and perform Bayesian inference. Let's dive into the key concepts and usage examples.
 
 ## Installation
@@ -139,3 +141,5 @@ with pm.Model() as gp_model:
 📚 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and Bayesian data analysis content.
 
 PyMC3 empowers you to perform Bayesian analysis with ease. Experiment with these examples and explore the flexibility and expressiveness of PyMC3 for your probabilistic programming needs! 📊🔍📈
+
+Made with :heart: by **Fardeen Ahmad Khan**
