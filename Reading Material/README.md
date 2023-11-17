@@ -64,6 +64,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Prophet Library Cheat Sheet](Prophet%20in%20Python.md)                                             | Prophet is an open-source forecasting tool developed by Facebook. |
 | [PyCaret Cheat Sheet](PyCaret%20in%20Python.md)                                             | PyCaret is a Python library that automates machine learning workflows, making it easier to train, evaluate, and deploy models. |
 | [PyMC Cheat Sheet](PyMC%20Library%20Cheatsheet.md)                                             | PyMC is a powerful tool for Bayesian data analysis and probabilistic modeling in Python. |
+| [PyMC3 Cheat Sheet](PyMC3%20in%20Python.md)                                             | PyMC3 is a powerful probabilistic programming library for Bayesian data analysis. |
 | [PyMongo Cheat Sheet](PyMongo%20Library%20Cheatsheet.md)                                             | PyMongo is the official Python driver for MongoDB. |
 | [PySpark Cheat Sheet](PySpark%20Cheatsheet.md)                                             | Getting started with Spark using Python's PySpark library |
 | [PyTorch Cheat Sheet](PyTorch%20Cheatsheet.md)                                             | Deep Learning basics with Python's PyTorch library. |
