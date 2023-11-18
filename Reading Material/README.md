@@ -89,6 +89,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Surprise Library Cheatsheet](Surprise%20in%20Python.md)           |  Surprise is a Python library for building and analyzing recommender systems. |
 | [Sweetviz Library Cheatsheet](Sweetviz%20in%20Python.md)           | Sweetviz is a Python library that helps you visualize and compare dataframes. |
 | [SymPy Library Cheatsheet](SymPy%20Cheatsheet.md)           | Ready reckoner for SymPy a library that lets us perform symbolic math operations in Python. |
+| [TabNet Library Cheat Sheet](TabNet%20in%20Python.md)           | TabNet is a versatile and interpretable deep learning model designed for tabular data. |
 | [TensorFlow Cheatsheet](TensorFlow%20Cheatsheet.md)           | A quick reference material for building machine learning models in TensorFlow |
 | [TextBLOB Cheatsheet](TextBLOB%20in%20Python.md)           | extBlob is a powerful Python library for processing textual data. |
 | [Time Series Analysis Cheatsheet](Time%20Series%20Analysis.md)           | A quick guide to analyzing time series data using Python |
