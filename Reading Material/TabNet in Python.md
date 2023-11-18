@@ -1,5 +1,7 @@
 # TabNet Cheat Sheet 📝🔍
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the TabNet cheat sheet! TabNet is a versatile and interpretable deep learning model designed for tabular data. It's particularly effective for feature selection and interpretable decision-making. Let's explore the key concepts and usage examples.
 
 ## Installation
@@ -104,3 +106,5 @@ clf.fit(X_train, y_train, cat_dims=[1, 4, 6])
 📚 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and machine learning content.
 
 TabNet provides a powerful and interpretable solution for tabular data. Experiment with these examples to harness the full potential of TabNet for your classification and regression tasks! 📊🔍📈
+
+Made with :heart: by **Fardeen Ahmad Khan**
