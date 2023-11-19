@@ -1,5 +1,7 @@
 # PyCopg2 Cheat Sheet 📝🐘
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the PyCopg2 cheat sheet! PyCopg2 is a PostgreSQL adapter for Python, providing a robust interface to interact with PostgreSQL databases. Let's explore the key concepts and usage examples.
 
 ## Installation
@@ -121,3 +123,5 @@ with conn.cursor(name='server_side_cursor') as cursor:
 📚 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and database-related content.
 
 Explore the power of PyCopg2 to interact seamlessly with PostgreSQL databases in your Python projects! 🐘💻🔍
+
+Made with :heart: by **Fardeen Ahmad Khan**
