@@ -84,6 +84,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [SharePoint Library in Python](SharePoint%20Lib%20in%20Python.md)                                 | Setting up and working with SharePoint in Python. |
 | [Spacy using Python Cheat Sheet](Spacy%20using%20Python.md)                                 | Common uses of Spacy for Natural Language Processing (NLP) |
 | [SQL Alchemy Cheat Sheet](SQLAlchemy%20Cheatsheet.md)                                 | SQLAlchemy is a popular and powerful Object Relational Mapper (ORM) for Python. |
+| [SQLite3 Cheat Sheet](SQLite3%20in%20Python.md)                                 | SQLite is a lightweight, file-based database engine that can be seamlessly integrated into Python applications. |
 | [Scrapy Cheat Sheet](Scrapy%20in%20Python.md)                                 | Scrapy is a powerful web scraping framework for Python. |
 | [Stats Library Cheat Sheet](Stats%20Lib%20Cheatsheet.md)                                 | Stats operations in Python using SciPy and Statistics. |
 | [SunPy Library Cheat Sheet](SunPy%20Library%20Cheatsheet.md)                                 | A quick reference for exploring solar physics and analyzing solar data using SunPy. |
