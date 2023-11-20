@@ -1,5 +1,7 @@
 # SQLite3 in Python Cheat Sheet 📝🐍
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the SQLite3 in Python cheat sheet! SQLite is a lightweight, file-based database engine that can be seamlessly integrated into Python applications. Here's your guide to key concepts and usage examples.
 
 ## Installation
@@ -125,3 +127,5 @@ except Exception as e:
 📚 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and database-related content.
 
 Explore the simplicity and efficiency of SQLite3 in Python for your data storage needs! 🐍💻🗄️
+
+Made with :heart: by **Fardeen Ahmad Khan**
