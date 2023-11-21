@@ -74,6 +74,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Requests Library Cheat Sheet](Requests%20Cheatsheet.md)                                             | Handling HTTP requests using Python's requests library |
 | [RNNs using Python Cheat Sheet](RNNs%20using%20Python.md)                         | Introduction to Recurrent Neural Networks in Python. |
 | [Roadmap to Becoming a Data Scientist](Data%20Science%20Roadmap.md)                         | A roadmap outlining the steps to become an adept Data Scientist. |
+| [Sci-Kit Allel Cheat Sheet](Scikit%20Allel%20in%20Python.md)                                 | Scikit-Allel is a powerful library for analyzing genetic variation data. |
 | [Sci-Kit Image Cheat Sheet](Scikit%20Image%20Cheatsheet.md)                                 | A refernce sheet for Image Processing in Python using Sci-Kit Image. |
 | [Sci-Kit Learn Cheat Sheet](Scikit%20Learn%20Cheatsheet.md)                                 | A sheet outlining basic operations and tools of sklearn which are used frequently. |
 | [Sci-Kit Learn Extra Cheat Sheet](Scikit%20Learn%20Extra%20Cheat%20Sheet.md)                                 |  Scikit-learn-extra is a Python library that extends the capabilities of the popular Scikit-learn library. |
