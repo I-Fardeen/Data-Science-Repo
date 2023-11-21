@@ -1,5 +1,7 @@
 # Scikit-Allel in Python Cheat Sheet 🧬🐍
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the Scikit-Allel in Python cheat sheet! Scikit-Allel is a powerful library for analyzing genetic variation data. Whether you're working with DNA sequences or genotyping data, this cheat sheet will guide you through essential concepts and examples.
 
 ## Installation
@@ -118,3 +120,5 @@ imputed_gt = gt.impute_with_mean()
 📚 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and bioinformatics-related content.
 
 Dive into the world of genetic variation analysis with Scikit-Allel in Python! 🧬🔬💻
+
+Made with :heart: by **Fardeen Ahmad Khan**
