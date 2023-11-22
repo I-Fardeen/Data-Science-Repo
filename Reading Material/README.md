@@ -29,6 +29,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Eli5 in Python Cheat Sheet](Eli5%20Library%20in%20Python.md)                     | ELI5 is a Python library which allows to visualize and debug  Machine Learning models. |
 | [Ensemble Techniques in Python Cheat Sheet](Ensemble%20Techniques%20using%20Python.md)                     | Theory and Implementation of Ensemble Techniques in Python|
 | [FastAPI in Python Cheat Sheet](FastAPI%20in%20Python.md)                     | FastAPI is a modern, fast, and highly productive web framework for building APIs with Python. |
+| [Feature-Engine Cheat Sheet](Feature-Engine%20in%20Python.md)                     | Feature-Engine is a powerful library for feature engineering, preprocessing and transforming your data. |
 | [Flask in Python Cheat Sheet](Flask%20in%20Python.md)                     | An introduction to the Flask framework in Python. |
 | [Gensim Library Cheat Sheet](Gensim%20Library%20Cheatsheet.md)                     | Gensim is a powerful library for NLP in Python. |
 | [GeoPandas Library Cheat Sheet](GeoPandas%20in%20Python.md)                     | GeoPandas is an open-source Python library that simplifies working with geospatial data. |
