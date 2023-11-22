@@ -1,5 +1,7 @@
 # Feature-Engine in Python Cheat Sheet 🚀🐍
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the Feature-Engine in Python cheat sheet! Feature-Engine is a powerful library for feature engineering, providing a variety of tools to preprocess and transform your data. Whether you're dealing with missing values, encoding categorical variables, or scaling features, this cheat sheet will guide you through essential concepts and examples.
 
 ## Installation
@@ -121,3 +123,5 @@ df_transformed = custom_transformer.fit_transform(df)
 📚 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and machine learning-related content.
 
 Dive into the world of feature engineering with Feature-Engine in Python! 🛠️🔍💡
+
+Made with :heart: by **Fardeen Ahmad Khan**
