@@ -36,6 +36,7 @@ Welcome to the **Reading Material** repository! 📚 This repository is dedicate
 | [Google Analytics using Python](Google%20Analytics%20using%20Python.md)                     | Connecting to Google Analytics and extracting insights using Python. |
 | [Hadoop using Python Cheat Sheet](Hadoop%20using%20Python.md)                                     | Setting up environment and getting started with Hadoop using Python |
 | [HoloViews in Python Cheat Sheet](HoloViews%20in%20Python.md)                                     | HoloViews is a powerful Python library for interactive data visualization. |
+| [HuggingFace Transformers Cheat Sheet](Hugging%20Face%20Transformers%20in%20Python.md)                                     | Hugging Face Transformers library for natural language processing (NLP). |
 | [HyperOpt in Python Cheat Sheet](HyperOpt%20in%20Python.md)                                     | HyperOpt is a Python library for hyperparameter optimization. |
 | [Ludwig Cheat Sheet](Ludwig%20in%20Python.md)                                     | Ludwig is a Python framework to train and test deep learning models without writing code. |
 | [Matplotlib Cheat Sheet](Matplotlib%20Cheatsheet.md)                                     | A ready reckoner for matplotlib.pyplot equally beneficial for both beginners and experienced folks. |
