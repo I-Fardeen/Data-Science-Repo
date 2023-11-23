@@ -1,5 +1,7 @@
 # Hugging Face Transformers in Python Cheat Sheet 🤗🐍
 
+Made with :heart: by **Fardeen Ahmad Khan**
+
 Welcome to the Hugging Face Transformers in Python cheat sheet! Hugging Face Transformers is a powerful library for natural language processing (NLP), offering a wide range of pre-trained models and tools for various NLP tasks. Explore this cheat sheet to unleash the potential of Hugging Face Transformers with essential concepts and code examples.
 
 ## Installation
@@ -115,3 +117,5 @@ custom_tokenizer = AutoTokenizer.from_pretrained(custom_model_name)
 📚 Follow the author, [Fardeen Ahmad Khan](https://github.com/I-Fardeen), for more Python and NLP-related content.
 
 Explore the world of natural language processing with Hugging Face Transformers in Python! 🌐🤖💬
+
+Made with :heart: by **Fardeen Ahmad Khan**
