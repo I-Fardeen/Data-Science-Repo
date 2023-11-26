@@ -1,4 +1,3 @@
-
 # 🏠 Capstone Project: House Price Prediction
 
 Welcome to the **House Price Prediction Capstone Project** repository on GitHub! 🎉 In this project, we invite you to explore the exciting world of data analysis, prediction modeling, and feature engineering in the context of real estate. Whether you're an aspiring data scientist or a curious learner, this project is designed to provide valuable insights into predicting house prices using a variety of techniques and tools.
